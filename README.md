@@ -20,5 +20,5 @@ Reading list for the Advanced Machine Learning Course
 [[Neklyudov et al. 17]](https://arxiv.org/pdf/1705.07283.pdf) Structured Bayesian Pruning via Log-Normal Multiplicative Noise, NIPS 2017   
 [[Luizos et al. 18]](https://openreview.net/pdf?id=H1Y8hhg0b) Learning Sparse Neural Networks Through L0 Regularization, ICLR 2018  
 [[Lee et al. 18]](https://arxiv.org/pdf/1805.10896.pdf) Adaptive Network Sparsification with Dependent Beta-Bernoulli Dropout, arXiv Prerpint, 2018  
-[[Achterhold et al. 18](https://openreview.net/pdf?id=ry-TW-WAb) Variational Network Quantization, ICLR 2018  
-[[Jung et al. 19](https://arxiv.org/abs/1808.05779) Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss, CVPR 2019
+[[Achterhold et al. 18]](https://openreview.net/pdf?id=ry-TW-WAb) Variational Network Quantization, ICLR 2018  
+[[Jung et al. 19]](https://arxiv.org/abs/1808.05779) Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss, CVPR 2019
