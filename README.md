@@ -49,4 +49,15 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Koh et al. 17]](https://arxiv.org/pdf/1703.04730.pdf) Understanding Black-box Predictions via Influence Functions, ICML 2017  
 [[Bau et al. 17]](https://arxiv.org/pdf/1704.05796.pdf) Network Dissection: Quantifying Interpretability of Deep Visual Representations, CVPR 2017  
 [[Selvaraju et al. 17]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf) Grad-CAM: Visual Explanation from Deep Networks via Gradient-based Localization, ICCV 2017    
+## Reliable and Secure Deep Learning
+[[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017  
+[[Kuleshov et al. 18]](https://arxiv.org/pdf/1807.00263.pdf) Accurate Uncertainties for Deep Learning Using Calibrated Regression, ICML 2018  
+[[Madras et al. 18]](https://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer.pdf) Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer, NIPS 2018  
+[[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing Properties of Neural Networks, ICLR 2014  
+[[Goodfellow et al. 15]](https://arxiv.org/pdf/1412.6572.pdf) Explaining and Harnessing Adversarial Examples, ICLR 2015  
+[[Kurakin et al. 17]](https://openreview.net/pdf?id=BJm4T4Kgx) Adversarial Machine Learning at Scale, ICLR 2017  
+[[Madry et al. 18]](https://openreview.net/pdf?id=rJzIBfZAb) Toward Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018  
+[[Athalye et al. 18]](https://arxiv.org/pdf/1802.00420.pdf) Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018  
+
+
 
