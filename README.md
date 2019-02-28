@@ -23,6 +23,8 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Lee et al. 18]](https://arxiv.org/pdf/1805.10896.pdf) Adaptive Network Sparsification with Dependent Beta-Bernoulli Dropout, arXiv Prerpint, 2018  
 [[Achterhold et al. 18]](https://openreview.net/pdf?id=ry-TW-WAb) Variational Network Quantization, ICLR 2018  
 [[Jung et al. 19]](https://arxiv.org/abs/1808.05779) Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss, CVPR 2019
+[[Howard et al. 18]](https://arxiv.org/pdf/1704.04861.pdf) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+Applications, CVPR 2018  
 
 ## Meta Learning
 [[Santoro et al. 16]](http://proceedings.mlr.press/v48/santoro16.pdf) Meta-Learning with Memory-Augmented Neural Networks, ICML 2016  
@@ -58,6 +60,4 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Kurakin et al. 17]](https://openreview.net/pdf?id=BJm4T4Kgx) Adversarial Machine Learning at Scale, ICLR 2017  
 [[Madry et al. 18]](https://openreview.net/pdf?id=rJzIBfZAb) Toward Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018  
 [[Athalye et al. 18]](https://arxiv.org/pdf/1802.00420.pdf) Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018  
-
-
 
