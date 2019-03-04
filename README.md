@@ -63,3 +63,9 @@ Applications, CVPR 2018
 [[Madry et al. 18]](https://openreview.net/pdf?id=rJzIBfZAb) Toward Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018  
 [[Athalye et al. 18]](https://arxiv.org/pdf/1802.00420.pdf) Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018  
 
+## Deep Reinforcement Learning 
+
+## Deep Learning for Time-series Analysis
+
+## Deep Learning for Computer Vision
+
