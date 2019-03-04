@@ -16,6 +16,7 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017  
 [[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017  
 [[Zhang et al. 17]](https://arxiv.org/pdf/1706.03850.pdf) Adversarial Feature Matching for Text Generation, ICML 2017  
+[[Hoffman et al. 18]](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) CyCADA: Cycle-Consistent Adversarial Domain Adaptation, ICML 2018  
 
 ## Memory and Computation-Efficient Deep Learning
 [[Molchanov et al. 17]](https://arxiv.org/pdf/1701.05369.pdf) Variational Dropout Sparsifies Deep Neural Networks, ICML 2017  
