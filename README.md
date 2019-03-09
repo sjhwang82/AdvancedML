@@ -79,6 +79,7 @@ Applications, CVPR 2018
 [[Burda et al. 19]](https://openreview.net/forum?id=rJNwDjAqYX) Large-Scale Study of Curiosity-Driven Learning, ICLR 2019
 
 ## Deep Learning for Time-series Analysis
+[[Che et al. 18]](http://proceedings.mlr.press/v80/che18a/che18a.pdf) Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series, ICML 2018  
 [[Tatbul et al. 18]](https://papers.nips.cc/paper/7462-precision-and-recall-for-time-series.pdf) Precision and Recall for Time Series, NIPS 2018  
 
 
