@@ -11,6 +11,7 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Gal et al. 17]](http://proceedings.mlr.press/v70/gal17a/gal17a.pdf) Deep Bayesian Active Learning with Image Data, ICML 2017  
 [[Gal et al. 17]](https://papers.nips.cc/paper/6949-concrete-dropout.pdf) Concrete Dropout, NIPS 2017  
 [[Smith and Le 18]](https://openreview.net/pdf?id=BJij4yg0Z) A Bayesian Perspective on Generalization and Stochastic Gradient Descent, ICLR 2018  
+[[Khan et al. 18]](http://proceedings.mlr.press/v80/khan18a/khan18a.pdf) Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam, ICML 2018  
 [[Rainforth et al. 18]](https://arxiv.org/pdf/1802.04537.pdf) Tighter Variational Bounds are Not Necessarily Better, ICML 2018  
 [[Nalisnick et al. 19]](https://openreview.net/pdf?id=H1xwNhCcYm) Do Deep Generative Models Know What They Don't Know?, ICLR 2019  
 
