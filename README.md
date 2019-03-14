@@ -55,6 +55,7 @@ Applications, CVPR 2018
 [[Rusu et al. 16]](https://arxiv.org/pdf/1606.04671.pdf) Progressive Neural Networks, arXiv preprint, 2016  
 [[Kirkpatrick et al. 17]](https://arxiv.org/pdf/1612.00796.pdf) Overcoming catastrophic forgetting in neural networks, PNAS 2017  
 [[Lee et al. 17]](https://papers.nips.cc/paper/7051-overcoming-catastrophic-forgetting-by-incremental-moment-matching.pdf) Overcoming Catastrophic Forgetting by Incremental Moment Matching, NIPS 2017  
+[[Shin et al. 17]](https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf) Continual Learning with Deep Generative Replay, NIPS 2017  
 [[Yoon et al. 18]](https://openreview.net/pdf?id=Sk7KsfW0-) Lifelong Learning with Dynamically Expandable Networks, ICLR 2018  
 ***
 [[Nguyen et al. 18]](https://arxiv.org/pdf/1710.10628.pdf) Variational Continual Learning, ICLR 2018  
