@@ -100,4 +100,17 @@ Applications, CVPR 2018
 
 
 ## Deep Learning for Computer Vision
+[[Ren et al. 15]](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf_) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS 2015  
+[[Liu et al. 16]](https://arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector, ECCV 2016  
+[[Long et al. 15]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) Fully Convolutional Networks for Semantic Segmentation, CVPR 2015  
+[[Xu et al. 15]](http://proceedings.mlr.press/v37/xuc15.pdf) Show, Attend and Tell: Neural Image Caption Generation with Visual Attention, ICML 2015  
+[[Held et al. 16]](http://davheld.github.io/GOTURN/GOTURN.pdf) Learning to Track at 100 FPS with Deep Regression Networks, ECCV 2016  
+***
+[[Lin et al. 17]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) Focal Loss for Dense Object Detection, ICCV 2017  
+[[Chen et al. 18]](https://arxiv.org/pdf/1802.02611.pdf) Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation, ECCV 2018  
+[[Girdhar et al. 18]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf) Detect-and-Track: Efficient Pose Estimation in Videos, CVPR 2018  
+
+
+
+
 
