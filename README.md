@@ -1,5 +1,5 @@
 # AdvancedML
-Reading list for the Advanced Machine Learning Course @ KAIST
+Reading list for the Advanced Deep Learning Course @ KAIST
 
 ## Bayesian Deep Learning
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014  
@@ -76,7 +76,8 @@ Applications, CVPR 2018
 ***
 [[Nguyen et al. 18]](https://arxiv.org/pdf/1710.10628.pdf) Variational Continual Learning, ICLR 2018  
 [[Schwarz et al. 18]](http://proceedings.mlr.press/v80/schwarz18a/schwarz18a.pdf) Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018  
-[[Xu and Zhu 18]](https://arxiv.org/pdf/1805.12369.pdf) Reinforced Continual Learning, NIPS 2018  
+[[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020
+
 
 ## Interpretable Machine Learning
 [[Ribeiro et al. 16]](https://arxiv.org/pdf/1602.04938.pdf) "Why Should I Trust You?" Explaining the Predictions of Any Classifier, KDD 2016  
