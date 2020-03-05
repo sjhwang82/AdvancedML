@@ -17,6 +17,8 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Rainforth et al. 18]](https://arxiv.org/pdf/1802.04537.pdf) Tighter Variational Bounds are Not Necessarily Better, ICML 2018  
 [[Nalisnick et al. 19]](https://openreview.net/pdf?id=H1xwNhCcYm) Do Deep Generative Models Know What They Don't Know?, ICLR 2019  
 
+
+
 ## Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014  
 [[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016  
@@ -27,6 +29,16 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017  
 [[Zhang et al. 17]](https://arxiv.org/pdf/1706.03850.pdf) Adversarial Feature Matching for Text Generation, ICML 2017  
 [[Hoffman et al. 18]](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) CyCADA: Cycle-Consistent Adversarial Domain Adaptation, ICML 2018  
+
+## Graph Neural Networks
+[[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016
+[[Kipf and Welling 17]](https://openreview.net/pdf?id=SJU4ayYgl) Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017
+[[Velickovic et al. 18]](https://openreview.net/pdf?id=rJXMpikCZ) Graph Attention Networks, ICLR 2018
+
+
+***
+[[Yun et al. 19]](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) Graph Transformer Neteworks, NeurIPS 2019
+[[Vashishth et al. 20]](https://openreview.net/pdf?id=BylA_C4tPr) Composition-based Multi-Relational Graph Convolutional Networks, ICLR 2020
 
 ## Memory and Computation-Efficient Deep Learning
 [[Wen et al. 16]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf) Learning Structured Sparsity in Deep Neural Networks, NIPS 2016  
