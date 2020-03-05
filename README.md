@@ -31,14 +31,14 @@ Reading list for the Advanced Machine Learning Course @ KAIST
 [[Hoffman et al. 18]](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) CyCADA: Cycle-Consistent Adversarial Domain Adaptation, ICML 2018  
 
 ## Graph Neural Networks
-[[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016
-[[Kipf and Welling 17]](https://openreview.net/pdf?id=SJU4ayYgl) Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017
-[[Velickovic et al. 18]](https://openreview.net/pdf?id=rJXMpikCZ) Graph Attention Networks, ICLR 2018
+[[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016  
+[[Kipf and Welling 17]](https://openreview.net/pdf?id=SJU4ayYgl) Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017  
+[[Velickovic et al. 18]](https://openreview.net/pdf?id=rJXMpikCZ) Graph Attention Networks, ICLR 2018  
 
 
 ***
-[[Yun et al. 19]](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) Graph Transformer Neteworks, NeurIPS 2019
-[[Vashishth et al. 20]](https://openreview.net/pdf?id=BylA_C4tPr) Composition-based Multi-Relational Graph Convolutional Networks, ICLR 2020
+[[Yun et al. 19]](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) Graph Transformer Neteworks, NeurIPS 2019 
+[[Vashishth et al. 20]](https://openreview.net/pdf?id=BylA_C4tPr) Composition-based Multi-Relational Graph Convolutional Networks, ICLR 2020 
 
 ## Memory and Computation-Efficient Deep Learning
 [[Wen et al. 16]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf) Learning Structured Sparsity in Deep Neural Networks, NIPS 2016  
