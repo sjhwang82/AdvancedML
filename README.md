@@ -1,6 +1,7 @@
 # Advanced Deep Learning @ KAIST
 
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
+
 **Teaching Assistants:**  
 Haebeom Lee (haebeom.lee@kaist.ac.kr)   
 Moonsu Han (mshan92@kaist.ac.kr)  
