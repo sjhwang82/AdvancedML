@@ -12,7 +12,25 @@ Office hours: By appointment only.
 
 | Dates | Topic | 
 |---|---:|
-|03/17, 03/19| Introduction |
+|3/17| Course Introduction |
+|3/19| Review of Deep Learning Basics |
+|3/24| Review of Deep Learning Basics |
+|3/26| Bayesian Deep Learning (Lecture) | 
+|3/31| Bayesian Deep Learning (Lecture) | 
+|4/2| Bayesian Deep Learning (Presentation) |
+|4/7| Generative Adversarial Networks (Lecture) | 
+|4/9| Generative Adversarial Networks (Presentation) | 
+|4/14| Flow-Based Models (Lecture) | 
+|4/16| Flow-Based Models (Presentation), **Project Proposal Due** |
+|4/21| Deep Reinforcement Learning (Lecture) | 
+|4/23| Deep Reinforcement Learning (Presentation) | 
+|4/28| Memory- and Computation-Efficient Deep Learning (Lecture) | 
+|5/7| Memory- and Computation-Efficient Deep Learning (Presentation) | 
+|5/12| No class
+|5/14| Meta-Learning (Lecture) | 
+|5/19| Meta-Learning (Presentation) | 
+|5/21| Continual Learning (Lecture) | 
+|5/26| Continual Learning (Presentation) | 
 
 
 
