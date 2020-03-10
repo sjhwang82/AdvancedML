@@ -9,7 +9,7 @@ Moonsu Han (mshan92@kaist.ac.kr)
 **Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
 Office hours: By appointment only.
 
-## Grading Policy
+# Grading Policy
 * **Absolute Grading**
 * Paper Presentation: 20%
 * Attendance and Participation: 20%
