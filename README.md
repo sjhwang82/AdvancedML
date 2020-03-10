@@ -8,6 +8,14 @@ Moonsu Han (mshan92@kaist.ac.kr)
 **Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
 Office hours: By appointment only.
 
+## Tentative Schedule
+
+| Dates | Topic | 
+|---|---:|
+|03/17, 03/19| Introduction |
+
+
+
 ## Reading List
 
 ### Bayesian Deep Learning
