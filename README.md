@@ -66,7 +66,7 @@ Reading list for the Advanced Deep Learning Course @ KAIST
 
 [[Burda et al. 19]](https://openreview.net/forum?id=rJNwDjAqYX) Large-Scale Study of Curiosity-Driven Learning, ICLR 2019.  
 [[Vinyals et al. 19]](https://www.nature.com/articles/s41586-019-1724-z)Grandmaster level in StarCraft II using multi-agent reinforcement learning, Nature 2019.  
-
+[[Hafner et al. 20]](https://openreview.net/pdf?id=S1lOTC4tDS)Dream to Control: Learning Behaviors by Latent Imagination, ICLR 2020.  
 
 ## Memory and Computation-Efficient Deep Learning
 [[Wen et al. 16]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf) Learning Structured Sparsity in Deep Neural Networks, NIPS 2016  
