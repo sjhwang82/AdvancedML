@@ -21,17 +21,25 @@ Office hours: By appointment only.
 |4/7| Generative Adversarial Networks (Lecture) | 
 |4/9| Generative Adversarial Networks (Presentation) | 
 |4/14| Flow-Based Models (Lecture) | 
-|4/16| Flow-Based Models (Presentation), **Project Proposal Due** |
+|4/16| Flow-Based Models (Presentation), **Project Proposal Due 04/17** |
 |4/21| Deep Reinforcement Learning (Lecture) | 
 |4/23| Deep Reinforcement Learning (Presentation) | 
 |4/28| Memory- and Computation-Efficient Deep Learning (Lecture) | 
-|5/7| Memory- and Computation-Efficient Deep Learning (Presentation) | 
-|5/12| No class
+|5/7| No class (Mid-term Exam Week) 
+|5/12| Memory- and Computation-Efficient Deep Learning (Presentation) | 
 |5/14| Meta-Learning (Lecture) | 
 |5/19| Meta-Learning (Presentation) | 
 |5/21| Continual Learning (Lecture) | 
 |5/26| Continual Learning (Presentation) | 
-
+|5/28| Interpretable Deep Learning (Lecture) | 
+|6/2| Interpretable Deep Learning (Presentation) | 
+|6/4| Reliable Deep Learning (Lecture) | 
+|6/9| Reliable Deep Learning (Presentation) |
+|6/11| Adversarial Deep Learning (Lecture), **Final Paper Due 06/12** |
+|6/16| Adversarial Deep Learning (Presentation) |  
+|6/18| Graph Neural Networks (Lecture) | 
+|6/23| Graph Neural Networks (Presentation) | 
+|6/26| **Half-day Workshop**
 
 
 ## Reading List
@@ -150,7 +158,7 @@ Applications, CVPR 2018
 [[Rolnick et al. 19]](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) Experience Replay for Continual Learning, NeurIPS 2019.   
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
 
-### Interpretable Machine Learning
+### Interpretable Deep Learning
 [[Ribeiro et al. 16]](https://arxiv.org/pdf/1602.04938.pdf) "Why Should I Trust You?" Explaining the Predictions of Any Classifier, KDD 2016  
 [[Kim et al. 16]](https://people.csail.mit.edu/beenkim/papers/KIM2016NIPS_MMD.pdf) Examples are not Enough, Learn to Criticize! Criticism for Interpretability, NIPS 2016  
 [[Choi et al. 16]](https://papers.nips.cc/paper/6321-retain-an-interpretable-predictive-model-for-healthcare-using-reverse-time-attention-mechanism.pdf) RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism, NIPS 2016  
