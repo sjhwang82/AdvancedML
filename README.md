@@ -133,7 +133,7 @@ Applications, CVPR 2018
 
 
 
-\\<!--
+<!--
 ## Deep Learning for Time-series Analysis
 [[Che et al. 18]](http://proceedings.mlr.press/v80/che18a/che18a.pdf) Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series, ICML 2018  
 [[Campos et al. 18]](https://openreview.net/pdf?id=HkwVAXyCW) Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks, ICLR 2018  
