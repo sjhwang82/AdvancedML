@@ -1,10 +1,10 @@
 # Advanced Deep Learning @ KAIST
 
-**Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)
-**Teaching Assistants:**
-Haebeom Lee (haebeom.lee@kaist.ac.kr)
-Moonsu Han (mshan92@kaist.ac.kr)
-**Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)
+**Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
+**Teaching Assistants:**  
+Haebeom Lee (haebeom.lee@kaist.ac.kr)   
+Moonsu Han (mshan92@kaist.ac.kr)  
+**Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
 Office hours: By appointment only.
 
 ## Reading List
