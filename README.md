@@ -1,5 +1,13 @@
 # Advanced Deep Learning
-Reading list for the Advanced Deep Learning Course @ KAIST
+
+
+
+
+
+
+
+
+### Reading list for the Advanced Deep Learning Course @ KAIST
 
 ## Bayesian Deep Learning
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
