@@ -11,7 +11,7 @@ Office hours: By appointment only.
 ## Tentative Schedule
 
 | Dates | Topic | 
-|---|---:|
+|---|:---|
 |3/17| Course Introduction |
 |3/19| Review of Deep Learning Basics |
 |3/24| Review of Deep Learning Basics |
