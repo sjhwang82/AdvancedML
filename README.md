@@ -75,12 +75,13 @@ Reading list for the Advanced Deep Learning Course @ KAIST
 [[Wen et al. 16]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf) Learning Structured Sparsity in Deep Neural Networks, NIPS 2016  
 [[Han et al. 16]](https://arxiv.org/pdf/1510.00149.pdf) Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding, ICLR 2016  
 [[Molchanov et al. 17]](https://arxiv.org/pdf/1701.05369.pdf) Variational Dropout Sparsifies Deep Neural Networks, ICML 2017  
-[[Luizos et al. 17]](https://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf) Bayesian Compression for Deep Learning, NIPS 2017  
-[[Luizos et al. 18]](https://openreview.net/pdf?id=H1Y8hhg0b) Learning Sparse Neural Networks Through L0 Regularization, ICLR 2018  
+[[Luizos et al. 17]](https://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf) Bayesian Compression for Deep Learning, NIPS 2017/.  
+[[Luizos et al. 18]](https://openreview.net/pdf?id=H1Y8hhg0b) Learning Sparse Neural Networks Through L0 Regularization, ICLR 2018.    
 [[Howard et al. 18]](https://arxiv.org/pdf/1704.04861.pdf) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
 Applications, CVPR 2018  
 [[Frankle and Carbin 19]](https://https://openreview.net/pdf?id=rJl-b3RcF7) The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, ICLR 2019.  
 ***
+[[Liu et al. 19]](https://openreview.net/pdf?id=rJlnB3C5Ym) Rethinking the Value of Network Pruning, ICLR 2019.  
 [[Jung et al. 19]](https://arxiv.org/abs/1808.05779) Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss, CVPR 2019.  
 
 ## Meta Learning
