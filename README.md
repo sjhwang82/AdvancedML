@@ -32,7 +32,7 @@ Office hours: By appointment only.
 |4/21| Deep Reinforcement Learning (Lecture) | 
 |4/23| Deep Reinforcement Learning (Presentation) | 
 |4/28| Memory- and Computation-Efficient Deep Learning (Lecture) | 
-|5/7| No class (Mid-term Exam Week) 
+|5/7| **Mid-term Presentation** 
 |5/12| Memory- and Computation-Efficient Deep Learning (Presentation) | 
 |5/14| Meta-Learning (Lecture) | 
 |5/19| Meta-Learning (Presentation) | 
