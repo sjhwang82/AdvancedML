@@ -168,7 +168,7 @@ Applications, CVPR 2018.
 ***
 
 [[Bau et al. 19]](https://openreview.net/pdf?id=Hyg_X2C5FX) GAN Dissection: Visualizing and Understanding Generative Adversarial Networks, ICLR 2019.   
-[[Guan et al. 19]](http://proceedings.mlr.press/v97/guan19a/guan19a.pdf) Towards a Deep and Unified Understanding of Deep Neural Models in NLP, ICML 2019.
+[[Guan et al. 19]](http://proceedings.mlr.press/v97/guan19a/guan19a.pdf) Towards a Deep and Unified Understanding of Deep Neural Models in NLP, ICML 2019.  
 [[Ghorbani et al. 19]](https://papers.nips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) Towards Automatic Concept-based Explanations, NeurIPS 2019.  
 [[Chen et al. 19]](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) This Looks Like That: Deep Learning for Interpretable Image Recognition, NeurIPS 2019.  
 
