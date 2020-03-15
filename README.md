@@ -221,7 +221,7 @@ Applications, CVPR 2018.
 [[Smith et al. 17]](https://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf) Federated Multi-Task Learning, NIPS 2017.  
 [[Li et al. 20]](https://arxiv.org/abs/1812.061270) Federated Optimization in Heterogeneous Networks, MLSys 2020.   
 ***
-[[Mohri et al. 19]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) Agnostic Federated Learning, ICML 2019. 
+[[Mohri et al. 19]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) Agnostic Federated Learning, ICML 2019.  
 [[Yurochkin et al. 19]](http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf) Bayesian Nonparametric Federated Learning of Neural Networks, ICML 2019.  
 [[Bonawitz et al. 19]](https://arxiv.org/pdf/1902.01046.pdf) Towards Federated Learning at Scale: System Design, MLSys 2019.  
 [[Wang et al. 20]](https://openreview.net/forum?id=BkluqlSFDS) Federated Learning with Matched Averaging, ICLR 2020.  
