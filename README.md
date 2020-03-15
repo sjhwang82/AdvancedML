@@ -214,6 +214,26 @@ Applications, CVPR 2018.
 [[Vashishth et al. 20]](https://openreview.net/pdf?id=BylA_C4tPr) Composition-based Multi-Relational Graph Convolutional Networks, ICLR 2020.   
 
 
+### Neural Architecture Search 
+[[Zoph and Le 17]](https://arxiv.org/abs/1611.01578) Neural Architecture Search with Reinforcement Learning, ICLR 2017.  
+[[Baker et al. 17]](https://openreview.net/pdf?id=S1c2cvqee) Designing Neural Network Architectures using Reinforcement Learning, ICLR 2017.  
+[[Real et al. 17]](http://proceedings.mlr.press/v70/real17a/real17a.pdf) Large-Scale Evolution of Image Classifiers, ICML 2017.  
+[[Liu et al. 18]](https://openreview.net/pdf?id=BJQRKzbA-) Hierarchical Representations for Efficient Architecture Search, ICLR 2018.  
+[[Pham et al. 18]](http://proceedings.mlr.press/v80/pham18a.html) Efficient Neural Architecture Search via Parameters Sharing, ICML 2018.  
+[[Luo et al. 18]](https://papers.nips.cc/paper/8007-neural-architecture-optimization.pdf) Neural Architecture Optimization, NeurIPS 2018.  
+[[Liu et al. 19]](https://openreview.net/pdf?id=S1eYHoC5FX) DARTS: Differentiable Architecture Search, ICLR 2019.  
+[[Tan et al. 19]](https://arxiv.org/abs/1807.11626) MnasNet: Platform-Aware Neural Architecture Search for Mobile, CVPR 2019.  
+***
+[[Cai et al. 19]](https://openreview.net/pdf?id=HylVB3AqYm) ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware, ICLR 2019.  
+[[Xie et al. 19]](https://openreview.net/pdf?id=rylqooRqK7) SNAS: Stochastic Neural Architecture Search, ICLR 2019.  
+[[Zhou et al. 19]](http://proceedings.mlr.press/v97/zhou19e/zhou19e.pdf) BayesNAS: A Bayesian Approach for Neural Architecture Search, ICML 2019.  
+[[Tan and Le 19]](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, ICML 2019.  
+[[Guo et al. 19]](https://papers.nips.cc/paper/8362-nat-neural-architecture-transformer-for-accurate-and-compact-architectures.pdf) NAT: Neural Architecture Transformer for Accurate and Compact Architectures, NeurIPS 2019.  
+[[Chen et al. 19]](https://papers.nips.cc/paper/8890-detnas-backbone-search-for-object-detection.pdf) DetNAS: Backbone Search for Object Detection, NeurIPS 2019.  
+[[Dong and Yang 20]](https://openreview.net/forum?id=HJxyZkBKDr) NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search, ICLR 2020.  
+[[Zela et al. 20]](https://openreview.net/pdf?id=H1gDNyrKDS) Understanding and Robustifying Differentiable Architecture Search, ICLR 2020.  
+
+
 ### Federated Learning
 [[Konečný et al. 16]](https://arxiv.org/pdf/1610.02527.pdf) Federated Optimization: Distributed Machine Learning for On-Device Intelligence, arXiv Preprint, 2016.  
 [[Konečný et al. 16]](https://arxiv.org/abs/1610.054920) Federated Learning: Strategies for Improving Communication Efficiency, NIPS Workshop on Private Multi-Party Machine Learning 2016.  
