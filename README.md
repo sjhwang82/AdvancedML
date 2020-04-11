@@ -29,8 +29,8 @@ Office hours: By appointment only.
 |4/2| Bayesian Deep Learning (Presentation) |
 |4/7| Generative Adversarial Networks (Lecture) | 
 |4/9| Generative Adversarial Networks (Presentation) | 
-|4/14| Flow-Based Models (Lecture) | 
-|4/16| Flow-Based Models (Presentation), **Project Proposal Due 4/17** |
+|4/14| Autoregressive and Flow-Based Generative Models (Lecture) | 
+|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due 4/17** |
 |4/21| Deep Reinforcement Learning (Lecture) | 
 |4/23| Deep Reinforcement Learning (Presentation) | 
 |4/28| Memory- and Computation-Efficient Deep Learning (Lecture) | 
