@@ -128,7 +128,7 @@ Office hours: By appointment only.
 [[Luizos et al. 18]](https://openreview.net/pdf?id=H1Y8hhg0b) Learning Sparse Neural Networks Through L0 Regularization, ICLR 2018.    
 [[Howard et al. 18]](https://arxiv.org/pdf/1704.04861.pdf) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
 Applications, CVPR 2018.    
-[[Frankle and Carbin 19]](https://https://openreview.net/pdf?id=rJl-b3RcF7) The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, ICLR 2019.  
+[[Frankle and Carbin 19]](https://openreview.net/pdf?id=rJl-b3RcF7) The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, ICLR 2019.  
 ***
 [[Lee et al. 19]](https://openreview.net/pdf?id=B1VZqjAcYX) SNIP: Single-Shot Network Pruning Based On Connection Sensitivity, ICLR 2019.  
 [[Liu et al. 19]](https://openreview.net/pdf?id=rJlnB3C5Ym) Rethinking the Value of Network Pruning, ICLR 2019.  
