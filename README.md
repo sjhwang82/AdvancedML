@@ -205,8 +205,10 @@ Applications, CVPR 2018.
 [[Goodfellow et al. 15]](https://arxiv.org/pdf/1412.6572.pdf) Explaining and Harnessing Adversarial Examples, ICLR 2015.    
 [[Kurakin et al. 17]](https://openreview.net/pdf?id=BJm4T4Kgx) Adversarial Machine Learning at Scale, ICLR 2017.    
 [[Madry et al. 18]](https://openreview.net/pdf?id=rJzIBfZAb) Toward Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018.    
+[[Eykholt et al. 18]](https://arxiv.org/pdf/1707.08945.pdf) Robust Physical-World Attacks on Deep Learning Visual Classification.  
 [[Athalye et al. 18]](https://arxiv.org/pdf/1802.00420.pdf) Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018.   
 ***
+[[Zhang et al. 19]](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf) Theoretically Principled Trade-off between Robustness and Accuracy, ICML 2019.  
 [[Ilyas et al. 19]](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features) Adversarial Examples are not Bugs, They Are Features, NeurIPS 2019.  
 [[Li et al. 19]](https://papers.nips.cc/paper/9143-certified-adversarial-robustness-with-additive-noise.pdf) Certified Adversarial Robustness with Additive Noise, NeurIPS 2019.  
 [[Tramèr and Boneh]](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf) Adversarial Training and Robustness for Multiple Perturbations, NeurIPS 2019.  
