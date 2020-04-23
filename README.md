@@ -143,8 +143,8 @@ Applications, CVPR 2018.
 [[Edwards and Storkey 17]](https://arxiv.org/pdf/1606.02185.pdf) Towards a Neural Statistician, ICLR 2017  
 [[Finn et al. 17]](https://arxiv.org/pdf/1703.03400.pdf) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017  
 [[Snell et al. 17]](https://arxiv.org/pdf/1703.05175.pdf) Prototypical Networks for Few-shot Learning, NIPS 2017
-[[Nichol et al. 18]](https://arxiv.org/pdf/1803.02999.pdf) On First-Order Meta-learning Algorithms, arXiv preprint, 2018
-[[Lee and Choi 18]](https://arxiv.org/abs/1801.05558) Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace, ICML 2018  
+[[Nichol et al. 18]](https://arxiv.org/pdf/1803.02999.pdf) On First-Order Meta-learning Algorithms, arXiv preprint, 2018.  
+[[Lee and Choi 18]](https://arxiv.org/abs/1801.05558) Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace, ICML 2018.  
 [[Liu et al. 19]](https://openreview.net/pdf?id=SyVuRiC5K7) Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning, ICLR 2019 
 ***
 
