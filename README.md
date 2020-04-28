@@ -31,25 +31,24 @@ Office hours: By appointment only.
 |4/9| Generative Adversarial Networks (Presentation) | 
 |4/14| Autoregressive and Flow-Based Generative Models (Lecture) | 
 |4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due 4/17** |
-|4/21| Deep Reinforcement Learning (Lecture) | 
-|4/23| Deep Reinforcement Learning (Presentation) | 
-|4/28| Memory- and Computation-Efficient Deep Learning (Lecture) | 
+|4/23| Deep Reinforcement Learning (Lecture) | 
+|4/28| Deep Reinforcement Learning (Lecture) | 
+|4/30| Deep Reinforcement Learning (Presentation) | 
 |5/7| **Mid-term Presentation** 
-|5/12| Memory- and Computation-Efficient Deep Learning (Presentation) | 
-|5/14| Meta-Learning (Lecture) | 
-|5/19| Meta-Learning (Presentation) | 
-|5/21| Continual Learning (Lecture) | 
-|5/26| Continual Learning (Presentation) | 
-|5/28| Interpretable Deep Learning (Lecture) | 
-|6/2| Interpretable Deep Learning (Presentation) | 
-|6/4| Reliable Deep Learning (Lecture) | 
-|6/9| Reliable Deep Learning (Presentation) |
-|6/11| Adversarial Deep Learning (Lecture), **Final Paper Due 6/12** |
-|6/16| Adversarial Deep Learning (Presentation) |  
-|6/18| Graph Neural Networks (Lecture) | 
-|6/23| Graph Neural Networks (Presentation) | 
+|5/12| Memory- and Computation-Efficient Deep Learning (Lecture) |
+|5/14| Memory- and Computation-Efficient Deep Learning (Presentation) | 
+|5/19| Meta-Learning (Lecture) | 
+|5/21| Meta-Learning (Presentation) | 
+|5/26| Continual Learning (Lecture) | 
+|5/28| Continual Learning (Presentation) | 
+|6/2| Interpretable Deep Learning (Lecture) | 
+|6/9| Interpretable Deep Learning (Presentation) | 
+|6/11| Reliable Deep Learning (Lecture) | 
+|6/16| Reliable Deep Learning (Presentation) |
+|6/18| Adversarial Deep Learning (Lecture), **Final Paper Due 6/12** |
+|6/23| Graph Neural Networks (Lecture) | 
+|6/25| Graph Neural Networks (Presentation) | 
 |6/26| **Half-day Workshop**
-
 
 ## Reading List
 
