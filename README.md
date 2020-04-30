@@ -35,16 +35,16 @@ Office hours: By appointment only.
 |4/28| Deep Reinforcement Learning (Lecture) | 
 |4/30| Deep Reinforcement Learning (Presentation) | 
 |5/7| **Mid-term Presentation** 
-|5/12| Memory- and Computation-Efficient Deep Learning (Lecture) |
-|5/14| Memory- and Computation-Efficient Deep Learning (Presentation) | 
+|5/12| Memory- and Computation-Efficient Deep Learning (Lecture) | ** Project Meetings **
+|5/14| Memory- and Computation-Efficient Deep Learning (Presentation) | ** Project Meetings **
 |5/19| Meta-Learning (Lecture) | 
 |5/21| Meta-Learning (Presentation) | 
 |5/26| Continual Learning (Lecture) | 
 |5/28| Continual Learning (Presentation) | 
 |6/2| Interpretable Deep Learning (Lecture) | 
 |6/4| Interpretable Deep Learning (Presentation) | 
-|6/9| Reliable Deep Learning (Lecture) | 
-|6/11| Reliable Deep Learning (Presentation) |
+|6/9| Reliable Deep Learning (Lecture) | ** Project Meetings **
+|6/11| Reliable Deep Learning (Presentation) | ** Project Meetings **
 |6/16| Adversarial Deep Learning (Lecture), **Final Paper Due 6/18** |
 |6/18| Graph Neural Networks (Lecture) | 
 |6/23| Graph Neural Networks (Presentation) | 
