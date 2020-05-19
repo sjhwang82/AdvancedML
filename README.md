@@ -43,8 +43,9 @@ Office hours: By appointment only.
 |5/28| Continual Learning (Presentation) | 
 |6/9| Interpretable Deep Learning (Lecture) | 
 |6/11| Interpretable Deep Learning (Presentation) | 
-|6/16| Reliable and Adversarial Deep Learning (Lecture), **Project Meetings** | 
+|6/16| Reliable Deep Learning (Lecture), **Project Meetings** | 
 |6/18| Reliable Deep Learning (Presentation), **Project Meetings**, **Final Paper Due 6/19** | 
+|6/19| Adversarial Deep Learning (Video Lecture) |
 |6/23| Graph Neural Networks (Lecture)  | 
 |6/25| Graph Neural Networks (Presentation) | 
 |6/26| **(Online) Workshop**
