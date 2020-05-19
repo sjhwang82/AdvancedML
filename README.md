@@ -48,7 +48,7 @@ Office hours: By appointment only.
 |6/19| Adversarial Deep Learning (Lecture)  |
 |6/23| Graph Neural Networks (Lecture) **Final Paper Due 6/23** | 
 |6/25| Graph Neural Networks (Presentation) | 
-|6/30| **Half-day Workshop**
+|6/30| **(Online) Workshop**
 
 ## Reading List
 
