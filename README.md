@@ -30,7 +30,7 @@ Office hours: By appointment only.
 |4/7| Generative Adversarial Networks (Lecture) | 
 |4/9| Generative Adversarial Networks (Presentation) | 
 |4/14| Autoregressive and Flow-Based Generative Models (Lecture) | 
-|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due 4/17** |
+|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due April 17th ** |
 |4/23| Deep Reinforcement Learning (Lecture) | 
 |4/28| Deep Reinforcement Learning (Lecture) | 
 |4/30| Deep Reinforcement Learning (Presentation) | 
@@ -43,9 +43,8 @@ Office hours: By appointment only.
 |5/28| Continual Learning (Presentation) | 
 |6/9| Interpretable Deep Learning (Lecture) | 
 |6/11| Interpretable Deep Learning (Presentation) | 
-|6/16| Reliable Deep Learning (Lecture), **Project Meetings** | 
-|6/18| Reliable Deep Learning (Presentation), **Project Meetings**, **Final Paper Due 6/19** | 
-|6/19| Adversarial Deep Learning (Video Lecture) |
+|6/16| Reliable and Secure Deep Learning (Lecture), **Project Meetings** | 
+|6/18| Reliable and Secure Deep Learning (Presentation), **Project Meetings**, **Final Paper Due June 21st ** | 
 |6/23| Graph Neural Networks (Lecture)  | 
 |6/25| Graph Neural Networks (Presentation) | 
 |6/26| **(Online) Workshop**
