@@ -30,7 +30,7 @@ Office hours: By appointment only.
 |4/7| Generative Adversarial Networks (Lecture) | 
 |4/9| Generative Adversarial Networks (Presentation) | 
 |4/14| Autoregressive and Flow-Based Generative Models (Lecture) | 
-|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due April 17th ** |
+|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due April 17th** |
 |4/23| Deep Reinforcement Learning (Lecture) | 
 |4/28| Deep Reinforcement Learning (Lecture) | 
 |4/30| Deep Reinforcement Learning (Presentation) | 
