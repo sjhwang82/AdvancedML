@@ -44,7 +44,7 @@ Office hours: By appointment only.
 |6/9| Interpretable Deep Learning (Lecture) | 
 |6/11| Interpretable Deep Learning (Presentation) | 
 |6/16| Reliable and Secure Deep Learning (Lecture), **Project Meetings** | 
-|6/18| Reliable and Secure Deep Learning (Presentation), **Project Meetings**, **Final Paper Due June 21st ** | 
+|6/18| Reliable and Secure Deep Learning (Presentation), **Project Meetings**, **Final Paper Due June 21st** | 
 |6/23| Graph Neural Networks (Lecture)  | 
 |6/25| Graph Neural Networks (Presentation) | 
 |6/26| **(Online) Workshop**
