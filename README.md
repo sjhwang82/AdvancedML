@@ -3,11 +3,6 @@
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
-**Teaching Assistants:**  
-Haebeom Lee (haebeom.lee@kaist.ac.kr)   
-Moonsu Han (mshan92@kaist.ac.kr)  
-Sunghyun Park (psh01087@kaist.ac.kr)
-
 **Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
 Office hours: By appointment only.
 
