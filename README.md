@@ -23,8 +23,8 @@ Office hours: By appointment only.
 |9/7| Bayesian Deep Learning (Lecture) |
 |9/9| Bayesian Deep Learning (Lecture) | 
 |9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Uncertainty Modeling and Calibration (Lecture) |
-|9/21| Uncertainty Modeling and Calibration (Presentation) |
+|9/16| Uncertainty Modeling and Neural Network Calibration (Lecture) |
+|9/21| Uncertainty Modeling and Neural Network Calibration (Presentation) |
 |9/28| Generative Adversarial Networks (Lecture) | 
 |10/5| Generative Adversarial Networks (Presentation) | 
 |10/7| Deep Reinforcement Learning (Lecture) |
