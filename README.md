@@ -43,7 +43,7 @@ Office hours: By appointment only.
 |12/2| Graph Neural Networks (Presentation), **Final Paper Due December 4th**| 
 |12/7| Neural Architecture Search (Lecture) | 
 |12/9| Neural Architecture Search (Presentation) | 
-|12/16| **(Online) Workshop**
+|12/18| **(Online) Workshop**
 
 ## Reading List
 
