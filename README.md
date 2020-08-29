@@ -16,33 +16,34 @@ Office hours: By appointment only.
 
 | Dates | Topic | 
 |---|:---|
-|3/17| Course Introduction |
-|3/19| Review of Deep Learning Basics |
-|3/24| Review of Deep Learning Basics |
-|3/26| Bayesian Deep Learning (Lecture) | 
-|3/31| Bayesian Deep Learning (Lecture) | 
-|4/2| Bayesian Deep Learning (Presentation) |
-|4/7| Generative Adversarial Networks (Lecture) | 
-|4/9| Generative Adversarial Networks (Presentation) | 
-|4/14| Autoregressive and Flow-Based Generative Models (Lecture) | 
-|4/16| Autoregressive and Flow-Based Generative Models (Presentation), **Project Proposal Due April 17th** |
-|4/23| Deep Reinforcement Learning (Lecture) | 
-|4/28| Deep Reinforcement Learning (Lecture) | 
-|4/30| Deep Reinforcement Learning (Presentation) | 
-|5/7| **Mid-term Presentation** 
-|5/12| Memory- and Computation-Efficient Deep Learning (Lecture), **Project Meetings** | 
-|5/14| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
-|5/19| Meta-Learning (Lecture) | 
-|5/21| Meta-Learning (Presentation) | 
-|5/26| Continual Learning (Lecture) | 
-|5/28| Continual Learning (Presentation) | 
-|6/9| Interpretable Deep Learning (Lecture) | 
-|6/11| Interpretable Deep Learning (Presentation) | 
-|6/16| Reliable and Secure Deep Learning (Lecture), **Project Meetings** | 
-|6/18| Reliable and Secure Deep Learning (Presentation), **Project Meetings**, **Final Paper Due June 21st** | 
-|6/23| Graph Neural Networks (Lecture)  | 
-|6/25| Graph Neural Networks (Presentation) | 
-|6/26| **(Online) Workshop**
+|8/31| Course Introduction |
+|9/2| Review of Deep Learning Basics |
+|9/7| Bayesian Deep Learning (Lecture) |
+|9/9| Bayesian Deep Learning (Lecture) | 
+|9/14| Bayesian Deep Learning (Presentation) | 
+|9/16| Uncertainty Modeling and Calibration (Lecture) |
+|9/21| Uncertainty Modeling and Calibration (Presentation) |
+|9/28| Generative Adversarial Networks (Lecture) | 
+|10/5| Generative Adversarial Networks (Presentation) | 
+|10/7| Deep Reinforcement Learning (Lecture) |
+|10/12| Deep Reinforcement Learning (Lecture), **Project Proposal Due October 11th** |
+|10/14| Deep Reinforcement Learning (Presentation) |  
+|10/21| **Mid-term Presentation** 
+|10/26| Memory- and Computation-Efficient Deep Learning (Lecture), **Project Meetings** | 
+|10/28| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
+|11/2| Meta-Learning (Lecture) | 
+|11/4| Meta-Learning (Presentation) | 
+|11/9| Continual Learning (Lecture) | 
+|11/11| Continual Learning (Presentation) | 
+|11/16| Interpretable Deep Learning (Lecture) | 
+|11/18| Interpretable Deep Learning (Presentation) | 
+|11/23| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
+|11/25| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
+|11/30| Graph Neural Networks (Lecture)  | 
+|12/2| Graph Neural Networks (Presentation) **Final Paper Due December 4th**| 
+|12/7| Neural Architecture Search (Lecture) | 
+|12/9| Neural Architecture Search (Presentation) | 
+|12/16| **(Online) Workshop**
 
 ## Reading List
 
