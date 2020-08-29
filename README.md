@@ -259,6 +259,12 @@ Applications, CVPR 2018.
 [[Li et al. 20]](https://openreview.net/pdf?id=HJxNAnVtDS) On the Convergence of FedAvg on Non-IID data, ICLR 2020.  
 
 
+### Semi-Supervised and Self-Supervised Learning
+[[Dosovitskiy et al. 14]](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks.pdf) Discriminative Unsupervised Feature Learning with Convolutional Neural Networks, NIPS 2014.  
+[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf) A Simple Framework for Contrastive Learning of Visual Representations, ICML 2020.  
+[[Grill et al. 20]](https://arxiv.org/pdf/2006.07733.pdf) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, arXiv preprint, 2020.  
+
+
 
 
 
