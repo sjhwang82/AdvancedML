@@ -27,8 +27,8 @@ Office hours: By appointment only.
 |9/21| Uncertainty Modeling and Neural Network Calibration (Presentation) |
 |9/28| Generative Adversarial Networks (Lecture) | 
 |10/5| Generative Adversarial Networks (Presentation) | 
-|10/7| Deep Reinforcement Learning (Lecture) |
-|10/12| Deep Reinforcement Learning (Lecture), **Project Proposal Due October 11th** |
+|10/7| Deep Reinforcement Learning (Lecture) **Project Proposal Due October 8th**|
+|10/12| Deep Reinforcement Learning (Lecture) |
 |10/14| Deep Reinforcement Learning (Presentation) |  
 |10/21| **Mid-term Presentation** 
 |10/26| Memory- and Computation-Efficient Deep Learning (Lecture), **Project Meetings** | 
