@@ -3,7 +3,9 @@
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
-**Office:** E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
+**Office:** 
+This is an online course.
+E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
 Office hours: By appointment only.
 
 ### Grading Policy
@@ -64,22 +66,6 @@ Office hours: By appointment only.
 ***
 
 
-### Generative Adversarial Networks
-[[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
-[[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
-[[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
-[[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017.  
-[[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.  
-[[Zhang et al. 17]](https://arxiv.org/pdf/1706.03850.pdf) Adversarial Feature Matching for Text Generation, ICML 2017.  
-[[Karras et al. 18]](https://openreview.net/forum?id=Hk99zCeAb) Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018.  
-[[Brock et al. 19]](https://openreview.net/pdf?id=B1xsqj09Fm) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019.  
-[[Karras et al. 19]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019.  
-[[Xu et al. 19]](https://papers.nips.cc/paper/8953-modeling-tabular-data-using-conditional-gan.pdf) Modeling Tabular Data using Conditional GAN, NeurIPS 2019.   
-***
-
-
-
-
 ### Autoregressive and Flow-Based Generative Models
 [[Rezende and Mohamed 15]](http://proceedings.mlr.press/v37/rezende15.pdf) Variational Inference with Normalizing Flows, ICML 2015.   
 [[Germain et al. 15]](http://proceedings.mlr.press/v37/germain15.pdf) MADE: Masked Autoencoder for Distribution Estimation, ICML 2015.  
@@ -93,6 +79,20 @@ Office hours: By appointment only.
 [[Chen et al. 19]](https://papers.nips.cc/paper/9183-residual-flows-for-invertible-generative-modeling.pdf) Residual Flows for Invertible Generative Modeling, NeurIPS 2019.   
 ***
 [[Kumar et al. 20]](https://openreview.net/pdf?id=rJgUfTEYvH) VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation, ICLR 2020.    
+
+
+### Generative Adversarial Networks
+[[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
+[[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
+[[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
+[[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017.  
+[[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.  
+[[Zhang et al. 17]](https://arxiv.org/pdf/1706.03850.pdf) Adversarial Feature Matching for Text Generation, ICML 2017.  
+[[Karras et al. 18]](https://openreview.net/forum?id=Hk99zCeAb) Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018.  
+[[Brock et al. 19]](https://openreview.net/pdf?id=B1xsqj09Fm) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019.  
+[[Karras et al. 19]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019.  
+[[Xu et al. 19]](https://papers.nips.cc/paper/8953-modeling-tabular-data-using-conditional-gan.pdf) Modeling Tabular Data using Conditional GAN, NeurIPS 2019.   
+***
 
 
 ### Deep Reinforcement Learning 
@@ -132,6 +132,7 @@ Applications, CVPR 2018.
 ***
 [[Renda et al. 20]](https://openreview.net/pdf?id=S1gSj0NKvB) Comparing Rewinding and Fine-tuning in Neural Network Pruning, ICLR 2020.  
 
+
 ### Meta Learning
 [[Santoro et al. 16]](http://proceedings.mlr.press/v48/santoro16.pdf) Meta-Learning with Memory-Augmented Neural Networks, ICML 2016  
 [[Vinyals et al. 16]](https://arxiv.org/pdf/1606.04080.pdf) Matching Networks for One Shot Learning, NIPS 2016    
@@ -161,6 +162,7 @@ Applications, CVPR 2018.
 [[Rolnick et al. 19]](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) Experience Replay for Continual Learning, NeurIPS 2019.  
 ***
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
+
 
 ### Interpretable Deep Learning
 [[Ribeiro et al. 16]](https://arxiv.org/pdf/1602.04938.pdf) "Why Should I Trust You?" Explaining the Predictions of Any Classifier, KDD 2016  
