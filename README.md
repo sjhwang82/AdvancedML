@@ -40,7 +40,7 @@ Office hours: By appointment only.
 |11/23| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
 |11/25| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
 |11/30| Graph Neural Networks (Lecture)  | 
-|12/2| Graph Neural Networks (Presentation) **Final Paper Due December 4th**| 
+|12/2| Graph Neural Networks (Presentation), **Final Paper Due December 4th**| 
 |12/7| Neural Architecture Search (Lecture) | 
 |12/9| Neural Architecture Search (Presentation) | 
 |12/16| **(Online) Workshop**
