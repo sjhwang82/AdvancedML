@@ -19,12 +19,12 @@ Office hours: By appointment only.
 | Dates | Topic | 
 |---|:---|
 |8/31| Course Introduction |
-|9/2| Review of Deep Learning Basics |
+|9/2| Review of Deep Learning Basics (Video Lecture) |
 |9/7| Bayesian Deep Learning (Lecture) |
 |9/9| Bayesian Deep Learning (Lecture) | 
 |9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Reliable Deep Learning (Lecture) |
-|9/21| Reliable Deep Learning (Presentation) |
+|9/16| VAEs, Autoregressive and Flow-based Models (Lecture) |
+|9/21| VAEs, Autoregressive and Flow-based Models (Presentation) |
 |9/28| Generative Adversarial Networks (Lecture) | 
 |10/5| Generative Adversarial Networks (Presentation) | 
 |10/7| Deep Reinforcement Learning (Lecture) **Project Proposal Due October 8th**|
@@ -39,6 +39,8 @@ Office hours: By appointment only.
 |11/11| Continual Learning (Presentation) | 
 |11/16| Interpretable Deep Learning (Lecture) | 
 |11/18| Interpretable Deep Learning (Presentation) | 
+|11/23| Reliable Deep Learning (Lecture) |
+|11/25| Reliable Deep Learning (Presentation) | 
 |11/23| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
 |11/25| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
 |11/30| Graph Neural Networks (Lecture)  | 
@@ -65,28 +67,8 @@ Office hours: By appointment only.
 
 ***
 [[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.   
-[[Vahdat and Kautz]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
 
-
-### Reliable Deep Learning
-[[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017.   
-[[Lakshminarayanan et al. 17]](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles, NIPS 2017.  
-[[Liang et al. 18]](https://openreview.net/pdf?id=H1VGkIxRZ) Enhancing the Reliability of Out-of-distrubition Image Detection in Neural Networks, ICLR 2018.  
-[[Lee et al. 18]](https://openreview.net/pdf?id=ryiAv2xAZ) Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018.  
-[[Kuleshov et al. 18]](https://arxiv.org/pdf/1807.00263.pdf) Accurate Uncertainties for Deep Learning Using Calibrated Regression, ICML 2018.    
-[[Jiang et al. 18]](https://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier.pdf) To Trust Or Not To Trust A Classifier, NeurIPS 2018.  
-[[Madras et al. 18]](https://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer.pdf) Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer, NeurIPS 2018.  
-[[Maddox et al. 19]](https://papers.nips.cc/paper/9472-a-simple-baseline-for-bayesian-uncertainty-in-deep-learning.pdf) A Simple Baseline for Bayesian Uncertainty in Deep Learning, NeurIPS 2019. 
-***
-[[Kull et al. 19]](https://papers.nips.cc/paper/9397-beyond-temperature-scaling-obtaining-well-calibrated-multi-class-probabilities-with-dirichlet-calibration.pdf) Beyond temperature scaling: Obtaining well-calibrated multiclass probabilities with Dirichlet calibration, NeurIPS 2019.  
-[[Thulasidasan et al. 19]](https://papers.nips.cc/paper/9540-on-mixup-training-improved-calibration-and-predictive-uncertainty-for-deep-neural-networks.pdf) On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks, NeurIPS 2019.  
-[[Ovadia et al. 19]](https://papers.nips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift.pdf) Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift, NeurIPS 2019.  
-[[Hendrycks et al. 20]](https://openreview.net/pdf?id=S1gmrxHFvB) AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty, ICLR 2020.  
-[[Filos et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2969-Paper.pdf) Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?, ICML 2020.  
-
-
-### Deep Generative Models
-#### Autoregressive and Flow-Based Generative Models
+### VAEs, Autoregressive and Flow-Based Generative Models
 [[Rezende and Mohamed 15]](http://proceedings.mlr.press/v37/rezende15.pdf) Variational Inference with Normalizing Flows, ICML 2015.   
 [[Germain et al. 15]](http://proceedings.mlr.press/v37/germain15.pdf) MADE: Masked Autoencoder for Distribution Estimation, ICML 2015.  
 [[Kingma et al. 16]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf) Improved Variational Inference with Inverse Autoregressive Flow, NIPS 2016.  
@@ -99,9 +81,10 @@ Office hours: By appointment only.
 [[Chen et al. 19]](https://papers.nips.cc/paper/9183-residual-flows-for-invertible-generative-modeling.pdf) Residual Flows for Invertible Generative Modeling, NeurIPS 2019.   
 ***
 [[Kumar et al. 20]](https://openreview.net/pdf?id=rJgUfTEYvH) VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation, ICLR 2020.    
+[[Vahdat and Kautz]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
 
 
-#### Generative Adversarial Networks
+### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
 [[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
 [[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
@@ -202,7 +185,21 @@ Applications, CVPR 2018.
 [[Chen et al. 19]](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) This Looks Like That: Deep Learning for Interpretable Image Recognition, NeurIPS 2019.  
 ***
 
-
+### Reliable Deep Learning
+[[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017.   
+[[Lakshminarayanan et al. 17]](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles, NIPS 2017.  
+[[Liang et al. 18]](https://openreview.net/pdf?id=H1VGkIxRZ) Enhancing the Reliability of Out-of-distrubition Image Detection in Neural Networks, ICLR 2018.  
+[[Lee et al. 18]](https://openreview.net/pdf?id=ryiAv2xAZ) Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples, ICLR 2018.  
+[[Kuleshov et al. 18]](https://arxiv.org/pdf/1807.00263.pdf) Accurate Uncertainties for Deep Learning Using Calibrated Regression, ICML 2018.    
+[[Jiang et al. 18]](https://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier.pdf) To Trust Or Not To Trust A Classifier, NeurIPS 2018.  
+[[Madras et al. 18]](https://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer.pdf) Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer, NeurIPS 2018.  
+[[Maddox et al. 19]](https://papers.nips.cc/paper/9472-a-simple-baseline-for-bayesian-uncertainty-in-deep-learning.pdf) A Simple Baseline for Bayesian Uncertainty in Deep Learning, NeurIPS 2019. 
+***
+[[Kull et al. 19]](https://papers.nips.cc/paper/9397-beyond-temperature-scaling-obtaining-well-calibrated-multi-class-probabilities-with-dirichlet-calibration.pdf) Beyond temperature scaling: Obtaining well-calibrated multiclass probabilities with Dirichlet calibration, NeurIPS 2019.  
+[[Thulasidasan et al. 19]](https://papers.nips.cc/paper/9540-on-mixup-training-improved-calibration-and-predictive-uncertainty-for-deep-neural-networks.pdf) On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks, NeurIPS 2019.  
+[[Ovadia et al. 19]](https://papers.nips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift.pdf) Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift, NeurIPS 2019.  
+[[Hendrycks et al. 20]](https://openreview.net/pdf?id=S1gmrxHFvB) AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty, ICLR 2020.  
+[[Filos et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2969-Paper.pdf) Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?, ICML 2020.  
 
 ### Deep Adversarial Learning
 [[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing Properties of Neural Networks, ICLR 2014.    
