@@ -45,7 +45,7 @@ Office hours: By appointment only.
 |12/2| Graph Neural Networks (Lecture) **Final Paper Due December 4th** | 
 |12/7| Graph Neural Networks (Presentation) | 
 |12/9| Semi-Supervised and Self Supervised Learning, Neural Architecture Search or Federated Learning (Lecture) | 
-|12/14| Semi-Supervised and Self Supervised Learning, Neural Architecture Search or Federated Learning (Lecture) | 
+|12/14| Semi-Supervised and Self Supervised Learning, Neural Architecture Search or Federated Learning (Presentation) | 
 |12/18| **(Online) Workshop**
 
 ## Reading List
