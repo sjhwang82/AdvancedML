@@ -20,14 +20,14 @@ Office hours: By appointment only.
 |---|:---|
 |8/31| Course Introduction |
 |9/2| Review of Deep Learning Basics (Video Lecture) |
-|9/7| Bayesian Deep Learning (Lecture) |
-|9/9| Bayesian Deep Learning (Lecture) | 
+|9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
+|9/9| Bayesian Deep Learning - Dropout as Bayesian Approximation, Modeling Uncertainty (Lecture) | 
 |9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Deep Generative Models (Lecture) |
-|9/21| Deep Generative Models (Lecture) |
+|9/16| Deep Generative Models - Autoregressive and Flow-based Models (Lecture) |
+|9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) |
 |9/28| Deep Generative Models (Presentation) | 
-|10/5| Deep Reinforcement Learning (Lecture) | 
-|10/7| Deep Reinforcement Learning (Lecture) **Project Proposal Due October 8th**|
+|10/5| Deep Reinforcement Learning - Value-based RL (Lecture) | 
+|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Project Proposal Due October 8th**|
 |10/12| Deep Reinforcement Learning (Presentation) |
 |10/14| Memory- and Computation-Efficient Deep Learning (Lecture) |  
 |10/21| **Mid-term Presentation** 
