@@ -214,7 +214,8 @@ Applications, CVPR 2018.
 [[Shafahi et al. 19]](https://papers.nips.cc/paper/8597-adversarial-training-for-free.pdf) Adversarial Training for Free!, NeurIPS 2019.  
 ***
 [[Wong et al. 20]](https://openreview.net/pdf?id=BJx040EFvH) Fast is Better Than Free: Revisiting Adversarial Training, ICLR 2020.  
-
+[[Madaan et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/770-Paper.pdf) Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020.  
+[[Maini et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3863-Paper.pdf) Adversarial Robustness Against the Union of Multiple Perturbation Models, ICML 2020.  
 
 ### Graph Neural Networks
 [[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016.  
