@@ -141,6 +141,9 @@ Applications, CVPR 2018.
 [[Morcos et al. 19]](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers, NeurIPS 2019.  
 ***
 [[Renda et al. 20]](https://openreview.net/pdf?id=S1gSj0NKvB) Comparing Rewinding and Fine-tuning in Neural Network Pruning, ICLR 2020.  
+[[Ye et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection, ICML 2020.  
+[[Frankle et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5787-Paper.pdf) Linear Mode Connectivity and the Lottery Ticket Hypothesis, ICML 2020.  
+[[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6626-Paper.pdf) Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers, ICML 2020.  
 
 
 ### Meta Learning
