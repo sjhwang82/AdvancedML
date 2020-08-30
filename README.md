@@ -21,7 +21,7 @@ Office hours: By appointment only.
 |8/31| Course Introduction |
 |9/2| Review of Deep Learning Basics (Video Lecture) |
 |9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
-|9/9| Bayesian Deep Learning - Dropout as Bayesian Approximation, Modeling Uncertainty (Lecture) | 
+|9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) | 
 |9/14| Bayesian Deep Learning (Presentation) | 
 |9/16| Deep Generative Models - Autoregressive and Flow-based Models (Lecture) |
 |9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) |
