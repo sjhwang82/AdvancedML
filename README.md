@@ -23,30 +23,27 @@ Office hours: By appointment only.
 |9/7| Bayesian Deep Learning (Lecture) |
 |9/9| Bayesian Deep Learning (Lecture) | 
 |9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| VAEs, Autoregressive and Flow-based Models (Lecture) |
-|9/21| VAEs, Autoregressive and Flow-based Models (Presentation) |
-|9/28| Generative Adversarial Networks (Lecture) | 
-|10/5| Generative Adversarial Networks (Presentation) | 
+|9/16| Deep Generative Models (Lecture) |
+|9/21| Deep Generative Models (Lecture) |
+|9/28| Deep Generative Models (Presentation) | 
+|10/5| Deep Reinforcement Learning (Lecture) | 
 |10/7| Deep Reinforcement Learning (Lecture) **Project Proposal Due October 8th**|
-|10/12| Deep Reinforcement Learning (Lecture) |
-|10/14| Deep Reinforcement Learning (Presentation) |  
+|10/12| Deep Reinforcement Learning (Presentation) |
+|10/14| Memory- and Computation-Efficient Deep Learning (Lecture) |  
 |10/21| **Mid-term Presentation** 
-|10/26| Memory- and Computation-Efficient Deep Learning (Lecture), **Project Meetings** | 
-|10/28| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
+|10/26| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
+|10/28| Meta-Learning (Lecture) | 
 |11/2| Meta-Learning (Lecture) | 
-|11/4| Meta-Learning (Presentation) | 
-|11/9| Continual Learning (Lecture) | 
-|11/11| Continual Learning (Presentation) | 
-|11/16| Interpretable Deep Learning (Lecture) | 
-|11/18| Interpretable Deep Learning (Presentation) | 
-|11/23| Reliable Deep Learning (Lecture) |
-|11/25| Reliable Deep Learning (Presentation) | 
-|11/23| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
-|11/25| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
-|11/30| Graph Neural Networks (Lecture)  | 
-|12/2| Graph Neural Networks (Presentation), **Final Paper Due December 4th**| 
-|12/7| Semi-Supervised and Self Supervised Learning, Neural Architecture Search, or Federated Learning (Lecture) | 
-|12/9| Semi-Supervised and Self Supervised Learning, Neural Architecture Search, or Federated Learning (Presentation) | 
+|11/4| Continual Learning (Lecture) | 
+|11/9| Continual Learning (Presentation) | 
+|11/11| Interpretable Deep Learning (Lecture) | 
+|11/16| Interpretable Deep Learning (Presentation) | 
+|11/18| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
+|11/23| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
+|11/25| Graph Neural Networks (Lecture)  | 
+|11/30| Graph Neural Networks (Presentation), **Final Paper Due December 4th**| 
+|12/2| Semi-Supervised and Self Supervised Learning, Neural Architecture Search, or Federated Learning (Lecture) | 
+|12/7| Semi-Supervised and Self Supervised Learning, Neural Architecture Search, or Federated Learning (Presentation) | 
 |12/18| **(Online) Workshop**
 
 ## Reading List
@@ -66,9 +63,9 @@ Office hours: By appointment only.
 [[Louizos et al. 19]](http://papers.nips.cc/paper/9079-the-functional-neural-process.pdf) The Functional Neural Process, NeurIPS 2019.  
 
 ***
-[[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.   
+[[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.  
 
-### VAEs, Autoregressive and Flow-Based Generative Models
+#### VAEs, Autoregressive and Flow-Based Generative Models
 [[Rezende and Mohamed 15]](http://proceedings.mlr.press/v37/rezende15.pdf) Variational Inference with Normalizing Flows, ICML 2015.   
 [[Germain et al. 15]](http://proceedings.mlr.press/v37/germain15.pdf) MADE: Masked Autoencoder for Distribution Estimation, ICML 2015.  
 [[Kingma et al. 16]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf) Improved Variational Inference with Inverse Autoregressive Flow, NIPS 2016.  
@@ -81,14 +78,12 @@ Office hours: By appointment only.
 [[Chen et al. 19]](https://papers.nips.cc/paper/9183-residual-flows-for-invertible-generative-modeling.pdf) Residual Flows for Invertible Generative Modeling, NeurIPS 2019.   
 ***
 [[Kumar et al. 20]](https://openreview.net/pdf?id=rJgUfTEYvH) VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation, ICLR 2020.    
-[[Vahdat and Kautz]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
 
-
-### Generative Adversarial Networks
+#### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
 [[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
 [[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
-[[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017.  
+[[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017.  s
 [[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.  
 [[Zhang et al. 17]](https://arxiv.org/pdf/1706.03850.pdf) Adversarial Feature Matching for Text Generation, ICML 2017.  
 [[Karras et al. 18]](https://openreview.net/forum?id=Hk99zCeAb) Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018.  
@@ -99,6 +94,7 @@ Office hours: By appointment only.
 [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020.  
 [[Zhao et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4902-Paper.pdf) Feature Quantization Improves GAN Training, ICML 2020.  
 [[Sinha et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1324-Paper.pdf) Small-GAN: Speeding up GAN Training using Core-Sets, ICML 2020.  
+[[Vahdat and Kautz]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
 
 
 ### Deep Reinforcement Learning 
@@ -184,6 +180,7 @@ Applications, CVPR 2018.
 [[Ghorbani et al. 19]](https://papers.nips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) Towards Automatic Concept-based Explanations, NeurIPS 2019.  
 [[Chen et al. 19]](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) This Looks Like That: Deep Learning for Interpretable Image Recognition, NeurIPS 2019.  
 ***
+
 
 ### Reliable Deep Learning
 [[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017.   
