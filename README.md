@@ -85,8 +85,8 @@ Office hours: By appointment only.
 [[Filos et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2969-Paper.pdf) Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?, ICML 2020.  
 
 
-
-### Autoregressive and Flow-Based Generative Models
+### Deep Generative Models
+#### Autoregressive and Flow-Based Generative Models
 [[Rezende and Mohamed 15]](http://proceedings.mlr.press/v37/rezende15.pdf) Variational Inference with Normalizing Flows, ICML 2015.   
 [[Germain et al. 15]](http://proceedings.mlr.press/v37/germain15.pdf) MADE: Masked Autoencoder for Distribution Estimation, ICML 2015.  
 [[Kingma et al. 16]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf) Improved Variational Inference with Inverse Autoregressive Flow, NIPS 2016.  
@@ -101,7 +101,7 @@ Office hours: By appointment only.
 [[Kumar et al. 20]](https://openreview.net/pdf?id=rJgUfTEYvH) VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation, ICLR 2020.    
 
 
-### Generative Adversarial Networks
+#### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
 [[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
 [[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
@@ -114,6 +114,7 @@ Office hours: By appointment only.
 [[Xu et al. 19]](https://papers.nips.cc/paper/8953-modeling-tabular-data-using-conditional-gan.pdf) Modeling Tabular Data using Conditional GAN, NeurIPS 2019.   
 ***
 [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020.  
+[[Zhao et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4902-Paper.pdf) Feature Quantization Improves GAN Training, ICML 2020.  
 [[Sinha et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1324-Paper.pdf) Small-GAN: Speeding up GAN Training using Core-Sets, ICML 2020.  
 
 
