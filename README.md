@@ -33,7 +33,7 @@ Office hours: By appointment only.
 |10/21| **Mid-term Presentation** 
 |10/26| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
 |10/28| Meta-Learning (Lecture) | 
-|11/2| Meta-Learning (Lecture) | 
+|11/2| Meta-Learning (Presentation) | 
 |11/4| Continual Learning (Lecture) | 
 |11/9| Continual Learning (Presentation) | 
 |11/11| Interpretable Deep Learning (Lecture) | 
