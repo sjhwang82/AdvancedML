@@ -122,9 +122,8 @@ Models of Discrete Data, NeurIPS 2019.
 [[Janner et al. 19]](http://papers.nips.cc/paper/9416-when-to-trust-your-model-model-based-policy-optimization.pdf) When to Trust Your Model: Model-Based Policy Optimization, NeurIPS 2019.  
 [[Fellows et al. 19]](https://papers.nips.cc/paper/8934-virel-a-variational-inference-framework-for-reinforcement-learning.pdf) VIREL: A Variational Inference Framework for Reinforcement Learning, NeurIPS 2019.  
 ***
-[[Hafner et al. 20]](https://openreview.net/pdf?id=S1lOTC4tDS) Dream to Control: Learning Behaviors by Latent Imagination, ICLR 2020.  
 [[Kaiser et al. 20]](https://openreview.net/pdf?id=S1xCPJHtDB) Model Based Reinforcement Learning for Atari, ICLR 2020.  
-
+[[Agarwal et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5394-Paper.pdf) An Optimistic Perspective on Offline Reinforcement Learning, ICML 2020.  
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
