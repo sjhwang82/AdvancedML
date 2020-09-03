@@ -156,13 +156,13 @@ Applications, CVPR 2018.
 [[Liu et al. 19]](https://openreview.net/pdf?id=SyVuRiC5K7) Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning, ICLR 2019 
 [[Gordon et al. 19]](https://openreview.net/pdf?id=HkxStoC5F7) Meta-Learning Probabilistic Inference for Prediction, ICLR 2019  
 [[Ravi and Beatson 19]](https://openreview.net/pdf?id=rkgpy3C5tX) Amortized Bayesian Meta-Learning, ICLR 2019.    
-[[Rakelly et al. 19]](http://proceedings.mlr.press/v97/rakelly19a/rakelly19a.pdf) Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables, ICML 2019.  
-[[Finn et al. 19]](http://proceedings.mlr.press/v97/finn19a/finn19a.pdf) Online Meta-Learning, ICML 2019.  
-***
+[[Rakelly et al. 19]](http://proceedings.mlr.press/v97/rakelly19a/rakelly19a.pdf) Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables, ICML 2019. 
 [[Shu et al. 19]](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf) Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting, NeurIPS 2019.  
+[[Finn et al. 19]](http://proceedings.mlr.press/v97/finn19a/finn19a.pdf) Online Meta-Learning, ICML 2019.  
+[[Lee et al. 20]](https://openreview.net/pdf?id=rkeZIJBYvr) Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks, ICLR 2020. 
+***
 [[Yin et al. 20]](https://openreview.net/forum?id=BklEFpEYwS) Meta-Learning without Memorization, ICLR 2020.  
-[[Lee et al. 20]](https://openreview.net/pdf?id=rkeZIJBYvr) Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks, ICLR 2020
-[[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.  
+[[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.    
 [[Bronskill et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2696-Paper.pdf) TaskNorm: Rethinking Batch Normalization for Meta-Learning, ICML 2020.  
 
 ### Continual Learning
@@ -179,7 +179,7 @@ Applications, CVPR 2018.
 [[Rolnick et al. 19]](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) Experience Replay for Continual Learning, NeurIPS 2019.  
 ***
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
-
+[[Knoblauch et al. 20]](https://proceedings.icml.cc/paper/2020/file/274ad4786c3abca69fa097b85867d9a4-Paper.pdf) Optimal Continual Learning has Perfect Memory and is NP-HARD, ICML 2020.  
 
 ### Interpretable Deep Learning
 [[Ribeiro et al. 16]](https://arxiv.org/pdf/1602.04938.pdf) "Why Should I Trust You?" Explaining the Predictions of Any Classifier, KDD 2016  
@@ -277,10 +277,12 @@ Applications, CVPR 2018.
 [[Mohri et al. 19]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) Agnostic Federated Learning, ICML 2019.  
 [[Yurochkin et al. 19]](http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf) Bayesian Nonparametric Federated Learning of Neural Networks, ICML 2019. 
 [[Bonawitz et al. 19]](https://arxiv.org/pdf/1902.01046.pdf) Towards Federated Learning at Scale: System Design, MLSys 2019.  
-***
 [[Wang et al. 20]](https://openreview.net/forum?id=BkluqlSFDS) Federated Learning with Matched Averaging, ICLR 2020.  
 [[Li et al. 20]](https://openreview.net/pdf?id=HJxNAnVtDS) On the Convergence of FedAvg on Non-IID data, ICLR 2020.  
-
+***
+[[Karimireddy et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/788-Paper.pdf) SCAFFOLD: Stochastic Controlled Averaging for Federated Learning, ICML 2020.  
+[[Yu et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5034-Paper.pdf) Federated Learning with Only Positive Labels, ICML 2020.  
+[[Hamer et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf) FedBoost: Communication-Efficient Algorithms for Federated Learning, ICML 2020.  
 
 ### Semi-Supervised and Self-Supervised Learning
 [[Oliver et al. 18]](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) Realistic Evaluation of Deep Semi-Supervised Learning Algorithms, NeurIPS 2018.  
