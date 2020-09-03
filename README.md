@@ -124,6 +124,7 @@ Models of Discrete Data, NeurIPS 2019.
 ***
 [[Kaiser et al. 20]](https://openreview.net/pdf?id=S1xCPJHtDB) Model Based Reinforcement Learning for Atari, ICLR 2020.  
 [[Agarwal et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5394-Paper.pdf) An Optimistic Perspective on Offline Reinforcement Learning, ICML 2020.  
+[[Fedus et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6110-Paper.pdf) Revisiting Fundamentals of Experience Replay, ICML 2020.  
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
@@ -295,7 +296,7 @@ Applications, CVPR 2018.
 [[Chen et al. 20]](http://https://proceedings.icml.cc/static/paper_files/icml/2020/6022-Paper.pdf) Generative Pretraining from Pixels, ICML 2020.  
 [[Grill et al. 20]](https://arxiv.org/pdf/2006.07733.pdf) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, arXiv preprint, 2020.    
 [[Chen et al. 20]](https://arxiv.org/pdf/2006.10029v1.pdf) Big Self-Supervised Models are Strong Semi-Supervised Learners, arXiv preprint, 2020. 
-
+[[Laskin et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5951-Paper.pdf) CURL: Contrastive Unsupervised Representations for Reinforcement Learning, ICML 2020.  
 
 
 
