@@ -85,8 +85,8 @@ Office hours: By appointment only.
 [[Chen et al. 19]](https://papers.nips.cc/paper/9183-residual-flows-for-invertible-generative-modeling.pdf) Residual Flows for Invertible Generative Modeling, NeurIPS 2019.  
 [[Tran et al. 19]](https://papers.nips.cc/paper/9612-discrete-flows-invertible-generative-models-of-discrete-data.pdf) Discrete Flows: Invertible Generative
 Models of Discrete Data, NeurIPS 2019.  
-[[Kumar et al. 20]](https://openreview.net/pdf?id=rJgUfTEYvH) VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation, ICLR 2020.    
-[[Vahdat and Kautz]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
+[[Ping et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/647-Paper.pdf) WaveFlow: A Compact Flow-based Model for Raw Audio, ICML 2020.  
+[[Vahdat and Kautz 20]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, arXiv preprint, 2020.  
 
 #### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
@@ -125,6 +125,8 @@ Models of Discrete Data, NeurIPS 2019.
 [[Kaiser et al. 20]](https://openreview.net/pdf?id=S1xCPJHtDB) Model Based Reinforcement Learning for Atari, ICLR 2020.  
 [[Agarwal et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5394-Paper.pdf) An Optimistic Perspective on Offline Reinforcement Learning, ICML 2020.  
 [[Fedus et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6110-Paper.pdf) Revisiting Fundamentals of Experience Replay, ICML 2020.  
+[[Lee et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3705-Paper.pdf) Batch Reinforcement Learning with Hyperparameter Gradients, ICML 2020.  
+[[Raileanu et al. 20]](https://arxiv.org/pdf/2006.12862v1.pdf) Automatic Data Augmentation for Generalization in Deep Reinforcement Learning, arXiv preprint, 2020.  
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
@@ -144,6 +146,8 @@ Applications, CVPR 2018.
 [[Ye et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection, ICML 2020.  
 [[Frankle et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5787-Paper.pdf) Linear Mode Connectivity and the Lottery Ticket Hypothesis, ICML 2020.  
 [[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6626-Paper.pdf) Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers, ICML 2020.  
+[[Nagel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4365-Paper.pdf) Up or Down? Adaptive Rounding for Post-Training Quantization, ICML 2020.  
+[[Meng et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6594-Paper.pdf) Training Binary Neural Networks using the Bayesian Learning Rule, ICML 2020.  
 
 
 ### Meta Learning
@@ -176,11 +180,14 @@ Applications, CVPR 2018.
 [[Nguyen et al. 18]](https://arxiv.org/pdf/1710.10628.pdf) Variational Continual Learning, ICLR 2018.  
 [[Schwarz et al. 18]](http://proceedings.mlr.press/v80/schwarz18a/schwarz18a.pdf) Progress & Compress: A Scalable Framework for Continual Learning, ICML 2018.   
 [[Chaudhry et al. 19]](https://openreview.net/pdf?id=Hkf2_sC5FX) Efficient Lifelong Learning with A-GEM, ICLR 2019.  
+***
 [[Rao et al. 19]](https://papers.nips.cc/paper/8981-continual-unsupervised-representation-learning.pdf) Continual Unsupervised Representation Learning, NeurIPS 2019.  
 [[Rolnick et al. 19]](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) Experience Replay for Continual Learning, NeurIPS 2019.  
-***
+[[Jerfel et al. 20]](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) Reconciling Meta-Learning and Continual Learning with Online Mixtures of Tasks, NeurIPS 2019.  
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
 [[Knoblauch et al. 20]](https://proceedings.icml.cc/paper/2020/file/274ad4786c3abca69fa097b85867d9a4-Paper.pdf) Optimal Continual Learning has Perfect Memory and is NP-HARD, ICML 2020.  
+[[Remasesh et al. 20]](https://arxiv.org/pdf/2007.07400.pdf) Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics, Continual Learning Workshop, ICML 2020.  
+
 
 ### Interpretable Deep Learning
 [[Ribeiro et al. 16]](https://arxiv.org/pdf/1602.04938.pdf) "Why Should I Trust You?" Explaining the Predictions of Any Classifier, KDD 2016  
@@ -192,11 +199,11 @@ Applications, CVPR 2018.
 [[Kim et al. 18]](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf) Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV), ICML 2018.  
 [[Heo et al. 18]](http://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf) Uncertainty-Aware Attention for Reliable Interpretation and Prediction, NeurIPS 2018.   
 [[Bau et al. 19]](https://openreview.net/pdf?id=Hyg_X2C5FX) GAN Dissection: Visualizing and Understanding Generative Adversarial Networks, ICLR 2019.   
-[[Guan et al. 19]](http://proceedings.mlr.press/v97/guan19a/guan19a.pdf) Towards a Deep and Unified Understanding of Deep Neural Models in NLP, ICML 2019.  
-[[Ghorbani et al. 19]](https://papers.nips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) Towards Automatic Concept-based Explanations, NeurIPS 2019.  
-[[Chen et al. 19]](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) This Looks Like That: Deep Learning for Interpretable Image Recognition, NeurIPS 2019.  
 ***
-
+[[Ghorbani et al. 19]](https://papers.nips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) Towards Automatic Concept-based Explanations, NeurIPS 2019.  
+[[Coenen et al. 19]](https://papers.nips.cc/paper/9065-visualizing-and-measuring-the-geometry-of-bert.pdf) Visualizing and Measuring the Geometry of BERT, NeurIPS 2019.  
+[[Heo et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/579-Paper.pdf) Cost-Effective Interactive Attention Learning with Neural Attention Processes, ICML 2020.  
+[[Agarwal et al. 20]](https://arxiv.org/pdf/2004.13912v1.pdf) Neural Additive Models: Interpretable Machine Learning with Neural Nets, arXiv preprint, 2020.  
 
 ### Reliable Deep Learning
 [[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017.   
