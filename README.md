@@ -21,30 +21,30 @@ Office hours: By appointment only.
 |8/31| Course Introduction |
 |9/2| Review of Deep Learning Basics (Video Lecture) |
 |9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
-|9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) | 
+|9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) **Review Due September 12th**| 
 |9/14| Bayesian Deep Learning (Presentation) | 
 |9/16| Deep Generative Models - Autoregressive and Flow-based Models (Lecture) |
-|9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) **Review Due**|
 |9/28| Deep Generative Models (Presentation) | 
 |10/5| Deep Reinforcement Learning - Value-based RL (Lecture) | 
-|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Project Proposal Due October 8th**|
+|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Review Due October 7th. Project Proposal Due October 8th**|
 |10/12| Deep Reinforcement Learning (Presentation) |
-|10/14| Memory- and Computation-Efficient Deep Learning (Lecture) |  
+|10/14| Memory- and Computation-Efficient Deep Learning (Lecture) **Review Due**|  
 |10/21| **Mid-term Presentation** 
 |10/26| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
-|10/28| Meta-Learning (Lecture) | 
+|10/28| Meta-Learning (Lecture) **Review Due**| 
 |11/2| Meta-Learning (Presentation) | 
-|11/4| Continual Learning (Lecture) | 
+|11/4| Continual Learning (Lecture) **Review Due**| 
 |11/9| Continual Learning (Presentation) | 
-|11/11| Interpretable Deep Learning (Lecture) | 
+|11/11| Interpretable Deep Learning (Lecture) **Review Due**| 
 |11/16| Interpretable Deep Learning (Presentation) | 
-|11/18| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** |
+|11/18| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings** |
 |11/23| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
-|11/25| Graph Neural Networks (Lecture) **Final Paper Due December 4th** | 
+|11/25| Graph Neural Networks (Lecture) **Review Due** | 
 |11/30| Graph Neural Networks (Presentation) |
-|12/2| Semi-Supervised and Self Supervised Learning (Lecture) **Final Paper Due December 4th** | 
+|12/2| Semi-Supervised and Self Supervised Learning (Lecture) **Review Due December 2nd, Final Paper Due December 4th** | 
 |12/7| Semi-Supervised and Self Supervised Learning (Presentation) | 
-|12/9| Federated Learning (Lecture) | 
+|12/9| Federated Learning (Lecture) **Review Due** | 
 |12/14| Federated Learning (Presentation) | 
 |12/18| **(Online) Workshop**
 
