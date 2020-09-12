@@ -272,7 +272,8 @@ Applications, CVPR 2018.
 [[Zhou et al. 19]](http://proceedings.mlr.press/v97/zhou19e/zhou19e.pdf) BayesNAS: A Bayesian Approach for Neural Architecture Search, ICML 2019.  
 [[Tan and Le 19]](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, ICML 2019.  
 [[Guo et al. 19]](https://papers.nips.cc/paper/8362-nat-neural-architecture-transformer-for-accurate-and-compact-architectures.pdf) NAT: Neural Architecture Transformer for Accurate and Compact Architectures, NeurIPS 2019.  
-[[Chen et al. 19]](https://papers.nips.cc/paper/8890-detnas-backbone-search-for-object-detection.pdf) DetNAS: Backbone Search for Object Detection, NeurIPS 2019. 
+[[Chen et al. 19]](https://papers.nips.cc/paper/8890-detnas-backbone-search-for-object-detection.pdf) DetNAS: Backbone Search for Object Detection, NeurIPS 2019.  
+
 [[Dong and Yang 20]](https://openreview.net/forum?id=HJxyZkBKDr) NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search, ICLR 2020.  
 [[Zela et al. 20]](https://openreview.net/pdf?id=H1gDNyrKDS) Understanding and Robustifying Differentiable Architecture Search, ICLR 2020. 
 ***
