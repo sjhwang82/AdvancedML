@@ -23,8 +23,9 @@ Office hours: By appointment only.
 |9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
 |9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) **Review Due September 12th**| 
 |9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Deep Generative Models - Autoregressive and Flow-based Models (Lecture) |
-|9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) **Review Due**|
+|9/16| Deep Generative Models - Generative Adversarial Networks(Lecture) |
+|9/21| Deep Generative Models - Autoregressive Models (Lecture) **Review Due**|
+|9/23| Deep Generative Models - Flow-Based Models (Lecture) |
 |9/28| Deep Generative Models (Presentation) | 
 |10/5| Deep Reinforcement Learning - Value-based RL (Lecture) | 
 |10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Review Due October 7th. Project Proposal Due October 8th**|
