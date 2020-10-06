@@ -28,7 +28,7 @@ Office hours: By appointment only.
 |9/23| Deep Generative Models - Flow-Based Models (Lecture) |
 |9/28| Deep Generative Models (Presentation) | 
 |10/5| Deep Reinforcement Learning - Value-based RL (Lecture) | 
-|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Review Due October 7th. Project Proposal Due October 8th**|
+|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Review Due October 7th. Project Proposal Due October 11th**|
 |10/12| Deep Reinforcement Learning (Presentation) |
 |10/14| Memory- and Computation-Efficient Deep Learning (Lecture) **Review Due**|  
 |10/21| **Mid-term Presentation** 
