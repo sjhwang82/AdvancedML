@@ -43,7 +43,7 @@ Office hours: By appointment only.
 |11/30| Graph Neural Networks (Lecture) **Review Due** | 
 |12/2| Graph Neural Networks (Presentation) |
 |12/7| Self Supervised Learning (Lecture) **Review Due December 2nd** | 
-|12/9| Self Supervised Learning (Presentation) **Final Paper Due December 11th**| 
+|12/9| Self Supervised Learning (Presentation) **Final Paper Due December 13th**| 
 |12/14| Federated Learning (Lecture) **Review Due** | 
 |12/16| Federated Learning (Presentation) | 
 |12/18| **(Online) Workshop**
