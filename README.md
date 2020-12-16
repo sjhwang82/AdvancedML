@@ -295,6 +295,7 @@ Applications, CVPR 2018.
 [[Yu et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5034-Paper.pdf) Federated Learning with Only Positive Labels, ICML 2020.  
 [[Hamer et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf) FedBoost: Communication-Efficient Algorithms for Federated Learning, ICML 2020.  
 [[Rothchild et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5927-Paper.pdf) FetchSGD: Communication-Efficient Federated Learning with Sketching, ICML 2020.  
+[[Pathak and Wainwright 20]](https://papers.nips.cc/paper/2020/file/4ebd440d99504722d80de606ea8507da-Paper.pdf) FedSplit: An Algorithminc Framework for Fast Federated Optimization, NeurIPS 2020.  
 
 ### Self-Supervised Learning
 <!--
