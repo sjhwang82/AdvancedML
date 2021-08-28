@@ -257,7 +257,7 @@ Applications, CVPR 2018.
 [[Bianchi et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1614-Paper.pdf) Spectral Clustering with Graph Neural Networks for Graph Pooling, ICML 2020.  
 [[Xhonneux et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4075-Paper.pdf) Continuous Graph Neural Networks, ICML 2020.  
 [[Garg et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2911-Paper.pdf) Generalization and Representational Limits of Graph Neural Networks, ICML 2020.  
-[[Bécigneul et al. 20]](https://arxiv.org/abs/2006.04804) Optimal Transport Graph Neural Networks, arXiv preprint 2020.  
+
 
 ### Self-Supervised Learning
 <!--
