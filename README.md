@@ -65,12 +65,14 @@ Office hours: By appointment only.
 [[Garnelo et al. 18]](http://proceedings.mlr.press/v80/garnelo18a/garnelo18a.pdf) Conditional Neural Process, ICML 2018.  
 [[Kim et al. 19]](http://https://arxiv.org/pdf/1901.05761.pdf) Attentive Neural Processes, ICLR 2019.  
 [[Sun et al. 19]](https://arxiv.org/pdf/1903.05779.pdf) Functional Variational Bayesian Neural Networks, ICLR 2019.  
-***
 [[Louizos et al. 19]](http://papers.nips.cc/paper/9079-the-functional-neural-process.pdf) The Functional Neural Process, NeurIPS 2019.  
+***
+[[Zhang et al. 20]](https://openreview.net/forum?id=rkeS1RVtPS) Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning, ICLR 2020.  
 [[Amersfoort et al. 20]](https://arxiv.org/pdf/2003.02037.pdf) Uncertainty Estimation Using a Single Deep Deterministic Neural Network, ICML 2020.  
 [[Dusenberry et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5657-Paper.pdf) Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors, ICML 2020.  
 [[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.  
 [[Lee et al. 20]](https://arxiv.org/abs/2008.02956) Bootstrapping Neural Processes, NeurIPS 2020.
+[[Izmailov et al. 21]](http://proceedings.mlr.press/v139/izmailov21a/izmailov21a.pdf) What Are Bayesian Neural Network Posteriors Really Like?, ICML 2021.  
 
 
 ### Deep Generative Models
