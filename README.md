@@ -132,12 +132,14 @@ Limited Data, NeurIPS 2020.
 [[Fellows et al. 19]](https://papers.nips.cc/paper/8934-virel-a-variational-inference-framework-for-reinforcement-learning.pdf) VIREL: A Variational Inference Framework for Reinforcement Learning, NeurIPS 2019.  
 [[Kumar et al. 19]](https://proceedings.neurips.cc/paper/2019/file/c2073ffa77b5357a498057413bb09d3a-Paper.pdf) Stabilizing Off-Policy Q-Learning via Bootstrapping
 Error Reduction, NeurIPS 2019.  
-***
 [[Kaiser et al. 20]](https://openreview.net/pdf?id=S1xCPJHtDB) Model Based Reinforcement Learning for Atari, ICLR 2020.  
 [[Agarwal et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5394-Paper.pdf) An Optimistic Perspective on Offline Reinforcement Learning, ICML 2020.  
-[[Fedus et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6110-Paper.pdf) Revisiting Fundamentals of Experience Replay, ICML 2020.  
 [[Lee et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3705-Paper.pdf) Batch Reinforcement Learning with Hyperparameter Gradients, ICML 2020.  
-[[Raileanu et al. 20]](https://arxiv.org/pdf/2006.12862v1.pdf) Automatic Data Augmentation for Generalization in Deep Reinforcement Learning, arXiv preprint, 2020.  
+***
+[[Kumar et al. 20]](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) Conservative Q-Learning for Offline Reinforcement Learning, ICML 2020.  
+[[Oh et al. 21]](https://openreview.net/pdf?id=gJYlaqL8i8) Learning to Sample with Local and Global Contexts in Experience Replay Buffer, ICLR 2021.  
+[[Yarats et al. 21]](https://openreview.net/pdf?id=GY6-6sTvGaf) Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels, ICLR 2021.  
+
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
@@ -153,13 +155,15 @@ Applications, CVPR 2018.
 [[Liu et al. 19]](https://openreview.net/pdf?id=rJlnB3C5Ym) Rethinking the Value of Network Pruning, ICLR 2019.  
 [[Jung et al. 19]](https://arxiv.org/abs/1808.05779) Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss, CVPR 2019.  
 [[Morcos et al. 19]](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers, NeurIPS 2019.  
-***
 [[Renda et al. 20]](https://openreview.net/pdf?id=S1gSj0NKvB) Comparing Rewinding and Fine-tuning in Neural Network Pruning, ICLR 2020.  
-[[Ye et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection, ICML 2020.  
 [[Frankle et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5787-Paper.pdf) Linear Mode Connectivity and the Lottery Ticket Hypothesis, ICML 2020.  
-[[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6626-Paper.pdf) Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers, ICML 2020.  
-[[Nagel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4365-Paper.pdf) Up or Down? Adaptive Rounding for Post-Training Quantization, ICML 2020.  
-[[Meng et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6594-Paper.pdf) Training Binary Neural Networks using the Bayesian Learning Rule, ICML 2020.  
+***
+[[Tanaka et al. 20]](https://proceedings.neurips.cc/paper/2020/file/46a4378f835dc8040c8057beb6a2da52-Paper.pdf) Pruning Neural Networks without Any Data by Iteratively Conserving Synaptic Flow, NeurIPS 2020.  
+[[van Baalen et al. 20]](https://proceedings.neurips.cc/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf) Bayesian Bits: Unifying Quantization and Pruning, NeurIPS 2020.  
+[[de Jorge et al. 21]](https://openreview.net/pdf?id=9GsFOUyUPi) Progressive Skeletonization: Trimming more fat from a network at initialization, ICLR 2021.  
+[[Stock et al. 21]](https://openreview.net/pdf?id=dV19Yyi1fS3) Training with Quantization Noise for Extreme Model Compression, ICLR 2021.  
+[[Lee et al. 21]](https://arxiv.org/abs/1911.12990) Semi-Relaxed Quantization with DropBits: Training Low-Bit Neural Networks via Bit-wise Regularization, ICCV 2021.  
+
 
 
 ### Meta Learning
@@ -178,10 +182,14 @@ Applications, CVPR 2018.
 [[Finn et al. 19]](http://proceedings.mlr.press/v97/finn19a/finn19a.pdf) Online Meta-Learning, ICML 2019.  
 [[Lee et al. 20]](https://openreview.net/pdf?id=rkeZIJBYvr) Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks, ICLR 2020.  
 [[Yin et al. 20]](https://openreview.net/forum?id=BklEFpEYwS) Meta-Learning without Memorization, ICLR 2020.  
-***
-[[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.    
+[[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.   
 [[Bronskill et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2696-Paper.pdf) TaskNorm: Rethinking Batch Normalization for Meta-Learning, ICML 2020.   
+***
+[[Rajendran et al. 20]](https://proceedings.neurips.cc//paper/2020/file/3e5190eeb51ebe6c5bbc54ee8950c548-Paper.pdf) Meta-Learning Requires Meta-Augmentation, NeurIPS 2020.  
+[[Lee et al. 21]](https://openreview.net/forum?id=wS0UFjsNYjn) Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning, ICLR 2021.  
 [[Shin et al. 21]](http://proceedings.mlr.press/v139/shin21a/shin21a.pdf) Large-Scale Meta-Learning with Continual Trajectory Shifting, ICML 2021.  
+[[Acar et al. 21]](http://proceedings.mlr.press/v139/acar21b/acar21b.pdf) Memory Efficient Online Meta Learning, ICML 2021.  
+
 
 ### Continual Learning
 [[Rusu et al. 16]](https://arxiv.org/pdf/1606.04671.pdf) Progressive Neural Networks, arXiv preprint, 2016  
