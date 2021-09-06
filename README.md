@@ -171,11 +171,12 @@ Applications, CVPR 2018.
 [[Rakelly et al. 19]](http://proceedings.mlr.press/v97/rakelly19a/rakelly19a.pdf) Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables, ICML 2019.  
 [[Shu et al. 19]](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf) Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting, NeurIPS 2019.  
 [[Finn et al. 19]](http://proceedings.mlr.press/v97/finn19a/finn19a.pdf) Online Meta-Learning, ICML 2019.  
-[[Lee et al. 20]](https://openreview.net/pdf?id=rkeZIJBYvr) Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks, ICLR 2020. 
-***
+[[Lee et al. 20]](https://openreview.net/pdf?id=rkeZIJBYvr) Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks, ICLR 2020.
 [[Yin et al. 20]](https://openreview.net/forum?id=BklEFpEYwS) Meta-Learning without Memorization, ICLR 2020.  
+***
 [[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.    
 [[Bronskill et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2696-Paper.pdf) TaskNorm: Rethinking Batch Normalization for Meta-Learning, ICML 2020.  
+[[Shin et al. 21]](http://proceedings.mlr.press/v139/shin21a/shin21a.pdf) Large-Scale Meta-Learning with Continual Trajectory Shifting, ICML 2021.  
 
 ### Continual Learning
 [[Rusu et al. 16]](https://arxiv.org/pdf/1606.04671.pdf) Progressive Neural Networks, arXiv preprint, 2016  
@@ -190,8 +191,8 @@ Applications, CVPR 2018.
 [[Rao et al. 19]](https://papers.nips.cc/paper/8981-continual-unsupervised-representation-learning.pdf) Continual Unsupervised Representation Learning, NeurIPS 2019.  
 [[Rolnick et al. 19]](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) Experience Replay for Continual Learning, NeurIPS 2019.  
 [[Jerfel et al. 20]](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) Reconciling Meta-Learning and Continual Learning with Online Mixtures of Tasks, NeurIPS 2019.  
-***
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
+***
 [[Knoblauch et al. 20]](https://proceedings.icml.cc/paper/2020/file/274ad4786c3abca69fa097b85867d9a4-Paper.pdf) Optimal Continual Learning has Perfect Memory and is NP-HARD, ICML 2020.  
 [[Remasesh et al. 20]](https://arxiv.org/pdf/2007.07400.pdf) Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics, Continual Learning Workshop, ICML 2020.  
 
@@ -241,10 +242,12 @@ Applications, CVPR 2018.
 [[Li et al. 19]](https://papers.nips.cc/paper/9143-certified-adversarial-robustness-with-additive-noise.pdf) Certified Adversarial Robustness with Additive Noise, NeurIPS 2019.  
 [[Tramèr and Boneh 19]](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf) Adversarial Training and Robustness for Multiple Perturbations, NeurIPS 2019.  
 [[Shafahi et al. 19]](https://papers.nips.cc/paper/8597-adversarial-training-for-free.pdf) Adversarial Training for Free!, NeurIPS 2019.  
-***
 [[Wong et al. 20]](https://openreview.net/pdf?id=BJx040EFvH) Fast is Better Than Free: Revisiting Adversarial Training, ICLR 2020.  
+***
 [[Madaan et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/770-Paper.pdf) Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020.  
+[[Croce and Hein 20]](http://proceedings.mlr.press/v119/croce20b/croce20b.pdf) Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks, ICML 2020.  
 [[Maini et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3863-Paper.pdf) Adversarial Robustness Against the Union of Multiple Perturbation Models, ICML 2020.  
+[[Kim et al. 20]](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf) Adversarial Self-Supervised Contrastive Learning, NeurIPS 2020.  
 
 ### Graph Neural Networks
 [[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016.  
