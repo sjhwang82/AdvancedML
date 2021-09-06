@@ -127,6 +127,8 @@ Models of Discrete Data, NeurIPS 2019.
 [[Bellemare et al. 19]](https://papers.nips.cc/paper/8687-a-geometric-perspective-on-optimal-representations-for-reinforcement-learning.pdf) A Geometric Perspective on Optimal Representations for Reinforcement Learning, NeurIPS 2019.  
 [[Janner et al. 19]](http://papers.nips.cc/paper/9416-when-to-trust-your-model-model-based-policy-optimization.pdf) When to Trust Your Model: Model-Based Policy Optimization, NeurIPS 2019.  
 [[Fellows et al. 19]](https://papers.nips.cc/paper/8934-virel-a-variational-inference-framework-for-reinforcement-learning.pdf) VIREL: A Variational Inference Framework for Reinforcement Learning, NeurIPS 2019.  
+[[Kumar et al. 19]](https://proceedings.neurips.cc/paper/2019/file/c2073ffa77b5357a498057413bb09d3a-Paper.pdf) Stabilizing Off-Policy Q-Learning via Bootstrapping
+Error Reduction, NeurIPS 2019.  
 ***
 [[Kaiser et al. 20]](https://openreview.net/pdf?id=S1xCPJHtDB) Model Based Reinforcement Learning for Atari, ICLR 2020.  
 [[Agarwal et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5394-Paper.pdf) An Optimistic Perspective on Offline Reinforcement Learning, ICML 2020.  
