@@ -71,7 +71,7 @@ Office hours: By appointment only.
 [[Amersfoort et al. 20]](https://arxiv.org/pdf/2003.02037.pdf) Uncertainty Estimation Using a Single Deep Deterministic Neural Network, ICML 2020.  
 [[Dusenberry et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5657-Paper.pdf) Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors, ICML 2020.  
 [[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.  
-[[Lee et al. 20]](https://arxiv.org/abs/2008.02956) Bootstrapping Neural Processes, NeurIPS 2020.
+[[Lee et al. 20]](https://arxiv.org/abs/2008.02956) Bootstrapping Neural Processes, NeurIPS 2020.  
 [[Izmailov et al. 21]](http://proceedings.mlr.press/v139/izmailov21a/izmailov21a.pdf) What Are Bayesian Neural Network Posteriors Really Like?, ICML 2021.  
 
 
