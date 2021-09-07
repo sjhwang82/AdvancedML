@@ -2,7 +2,7 @@
 
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
-**TAs:** Haebeom Lee (haebeom.lee@kaist.ac.kr), Jinheon Baek (jinheon.baek@kaist.ac.kr), Seul Lee (animecult@kaist.ac.kr)
+**TAs:** Haebeom Lee (haebeom.lee@kaist.ac.kr), Jinheon Baek (jinheon.baek@kaist.ac.kr), Seul Lee (animecult@kaist.ac.kr), Wonyong Jeong (wyjeong@kaist.ac.kr)
 
 **Office:** 
 This is an online course.
