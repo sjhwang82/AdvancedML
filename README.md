@@ -365,12 +365,13 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Dong and Yang 20]](https://openreview.net/forum?id=HJxyZkBKDr) NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search, ICLR 2020.  
 [[Zela et al. 20]](https://openreview.net/pdf?id=H1gDNyrKDS) Understanding and Robustifying Differentiable Architecture Search, ICLR 2020. 
 [[Cai et al. 20]](https://openreview.net/pdf?id=HylxE1HKwS) Once-for-All: Train One Network and Specialize it for Efficient Deployment, ICLR 2020.  
-***
 [[Such et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4522-Paper.pdf) Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data, ICML 2020.  
+***
+[[Liu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490766.pdf) Are Labels Necessary for Neural Architecture Search?, ECCV 2020.  
+[[Dudziak et al. 20]](https://proceedings.neurips.cc/paper/2020/file/768e78024aa8fdb9b8fe87be86f64745-Paper.pdf) BRP-NAS: Prediction-based NAS using GCNs, NeurIPS 2020.  
 [[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/439-Paper.pdf) Neural Architecture Search in A Proxy Validation Loss Landscape, ICML 2020.  
 [[Lee et al. 21]](https://openreview.net/forum?id=rkQuFUmUOg3) Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets, ICLR 2021.  
 [[Mellor et al. 21]](https://arxiv.org/pdf/2006.04647.pdf) Neural Architecture Search without Training, ICML 2021.  
-[[Lee et al. 21]](https://arxiv.org/abs/2106.08630) HELP: Hardware-Adaptive Efficient Latency Predictor for NAS via Meta-Learning, ArXiv preprint, 2021.  
 
 <!--
 ## Deep Learning for Time-series Analysis
