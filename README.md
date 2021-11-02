@@ -35,17 +35,17 @@ Office hours: By appointment only.
 |10/26| Meta-Learning (Lecture) **Review Due**| 
 |10/28| Meta-Learning (Presentation) |
 |11/2| Continual Learning (Lecture) **Review Due**| 
-|11/4| Continual Learning (Presentation) | 
+|11/4| Continual Learning (Lecture, Presentation) | 
 |11/5| **Mid-term Presentation (at 7PM)**
-|11/9| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings** |
-|11/11| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
-|11/16| Graph Neural Networks (Lecture) **Review Due** | 
-|11/18| Graph Neural Networks (Presentation) |
-|11/23| Self Supervised Learning (Lecture) **Review Due December 2nd** | 
-|11/25| Self Supervised Learning (Presentation) | 
-|11/30| Federated Learning (Lecture) **Review Due** | 
-|12/2| Federated Learning (Presentation) **Final Paper Due December 5th**| 
-|12/7| Neural Architecture Search (Lecture) **Review Due** |
+|11/9| Continual Learning (Presentation), Discussion |
+|11/11| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings**|
+|11/16| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** | 
+|11/18| Graph Neural Networks (Lecture) **Review Due** |
+|11/23| Graph Neural Networks (Presentation)  | 
+|11/25|  Self Supervised Learning (Lecture) **Review Due** | 
+|11/30| Self Supervised Learning (Presentation) | 
+|12/2| Federated Learning (Lecture) **Review Due**| 
+|12/7| Federated Learning (Presentation) **Final Paper Due December 7th** |
 |12/9| Neural Architecture Search (Lecture) **Review Due** |
 |12/18| **Final Presentation**
 
