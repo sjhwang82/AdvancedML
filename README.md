@@ -34,10 +34,10 @@ Office hours: By appointment only.
 |10/19| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
 |10/26| Meta-Learning (Lecture) **Review Due**| 
 |10/28| Meta-Learning (Presentation) |
-|11/2| Continual Learning (Lecture) **Review Due**| 
-|11/4| Continual Learning (Lecture, Presentation) | 
+|11/2| Meta-Learning (Presentation), Continual Learning (Lecture) **Review Due**| 
+|11/4| Continual Learning (Lecture, Discussion) | 
 |11/5| **Mid-term Presentation (at 7PM)**
-|11/9| Continual Learning (Presentation), Discussion |
+|11/9| Continual Learning (Presentation) |
 |11/11| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings**|
 |11/16| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** | 
 |11/18| Graph Neural Networks (Lecture) **Review Due** |
