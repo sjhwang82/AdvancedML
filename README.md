@@ -35,7 +35,7 @@ Office hours: By appointment only.
 |10/26| Meta-Learning (Lecture) **Review Due**| 
 |10/28| Meta-Learning (Presentation) |
 |11/2| Meta-Learning (Presentation), Continual Learning (Lecture) **Review Due**| 
-|11/4| Continual Learning (Lecture, Discussion) | 
+|11/4| Continual Learning (Lecture, Presentation) | 
 |11/5| **Mid-term Presentation (at 7PM)**
 |11/9| Continual Learning (Presentation) |
 |11/11| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings**|
