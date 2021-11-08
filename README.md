@@ -40,13 +40,13 @@ Office hours: By appointment only.
 |11/9| Continual Learning (Presentation) |
 |11/11| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings**|
 |11/16| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** | 
-|11/18| Graph Neural Networks (Lecture) **Review Due** |
-|11/23| Graph Neural Networks (Presentation)  | 
-|11/25|  Self Supervised Learning (Lecture) **Review Due** | 
-|11/30| Self Supervised Learning (Presentation) | 
-|12/2| Federated Learning (Lecture) **Review Due**| 
-|12/7| Federated Learning (Presentation) **Final Paper Due December 7th** |
-|12/9| Neural Architecture Search (Lecture) **Review Due** |
+|11/23| Graph Neural Networks (Lecture) **Review Due** |
+|11/25| Graph Neural Networks (Presentation)  | 
+|11/30|  Self Supervised Learning (Lecture) **Review Due** | 
+|12/2| Self Supervised Learning (Presentation) | 
+|12/7| Federated Learning (Lecture) **Review Due**| 
+|12/9| Federated Learning (Presentation) **Final Paper Due December 7th** |
+|12/14| Neural Architecture Search (Lecture) **Review Due** |
 |12/18| **Final Presentation**
 
 ## Reading List
