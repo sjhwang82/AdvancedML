@@ -45,8 +45,9 @@ Office hours: By appointment only.
 |11/30|  Self Supervised Learning (Lecture) **Review Due** | 
 |12/2| Self Supervised Learning (Presentation) | 
 |12/7| Federated Learning (Lecture) **Review Due**| 
-|12/9| Federated Learning (Presentation) **Final Paper Due December 7th** |
-|12/14| Neural Architecture Search (Lecture) **Review Due** |
+|12/9| Federated Learning (Presentation) |
+|12/14| Neural Architecture Search (Lecture) **Review Due**, **Final Paper Due December 16th**  |
+|12/16| Neural Architecture Search (Presentation)
 |12/18| **Final Presentation**
 
 ## Reading List
