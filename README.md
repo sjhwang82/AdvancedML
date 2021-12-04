@@ -364,7 +364,7 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Guo et al. 19]](https://papers.nips.cc/paper/8362-nat-neural-architecture-transformer-for-accurate-and-compact-architectures.pdf) NAT: Neural Architecture Transformer for Accurate and Compact Architectures, NeurIPS 2019.  
 [[Chen et al. 19]](https://papers.nips.cc/paper/8890-detnas-backbone-search-for-object-detection.pdf) DetNAS: Backbone Search for Object Detection, NeurIPS 2019.  
 [[Dong and Yang 20]](https://openreview.net/forum?id=HJxyZkBKDr) NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search, ICLR 2020.  
-[[Zela et al. 20]](https://openreview.net/pdf?id=H1gDNyrKDS) Understanding and Robustifying Differentiable Architecture Search, ICLR 2020. 
+[[Zela et al. 20]](https://openreview.net/pdf?id=H1gDNyrKDS) Understanding and Robustifying Differentiable Architecture Search, ICLR 2020.  
 [[Cai et al. 20]](https://openreview.net/pdf?id=HylxE1HKwS) Once-for-All: Train One Network and Specialize it for Efficient Deployment, ICLR 2020.  
 [[Such et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4522-Paper.pdf) Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data, ICML 2020.  
 ***
