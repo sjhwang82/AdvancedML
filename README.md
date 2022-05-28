@@ -19,35 +19,35 @@ Office hours: By appointment only.
 
 | Dates | Topic | 
 |---|:---|
-|8/31| Course Introduction |
-|9/2| Review of Deep Learning Basics (Video Lecture) |
-|9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
-|9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) **Review Due September 12th**| 
-|9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|9/28| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) **Review Due**|
-|9/30| Deep Generative Models (Presentation) | 
-|10/5| Deep Reinforcement Learning - Value-based RL (Lecture)  | 
-|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Project Proposal and Review Due October 7th.**|
-|10/12| Deep Reinforcement Learning (Presentation) |
-|10/14| Memory- and Computation-Efficient Deep Learning (Lecture) **Review Due**|  
-|10/19| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
-|10/26| Meta-Learning (Lecture) **Review Due**| 
-|10/28| Meta-Learning (Presentation) |
-|11/2| Meta-Learning (Presentation), Continual Learning (Lecture) **Review Due**| 
-|11/4| Continual Learning (Lecture, Presentation) | 
-|11/5| **Mid-term Presentation** |
-|11/9| Continual Learning (Presentation) |
-|11/11| Adversarially-Robust Deep Learning (Lecture), **Review Due, Project Meetings**|
-|11/16| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** | 
-|11/23| Graph Neural Networks (Lecture) **Review Due** |
-|11/25| Graph Neural Networks (Presentation)  | 
-|11/30|  Self Supervised Learning (Lecture) **Review Due** | 
-|12/2| Self Supervised Learning (Presentation) | 
-|12/7| Federated Learning (Lecture) **Review Due**| 
-|12/9| Federated Learning (Presentation) |
-|12/14| Neural Architecture Search (Lecture), **Review Due**, **Final Paper Due December 16th**  |
-|12/18| **Final Presentation**
+|8/29| Course Introduction |
+|9/1| Review of Deep Learning Basics (Video Lecture) |
+|9/6| Self-Supervised Learning (Lecture) 
+|9/8| Self-Supervised Learning (Presentation)
+|9/13| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/15| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
+|9/20| Bayesian Deep Learning (Presentation) | 
+|9/22| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|9/29| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|10/4| Deep Generative Models (Presentation)
+|10/6| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/11| Deep Generative Models (Presentation) 
+|10/13| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|10/18| ** Mid-term Presentation ** |
+|10/25| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|10/27| Deep Reinforcement Learning (Presentation) |   
+|11/1| Meta Learning (Lecture) | 
+|11/3| Meta Learning (Presentation) |
+|11/8| Continual Learning (Lecture) | 
+|11/10| Continual Learning (Presentation) 
+|11/15| Deep Graph Learning - Message Passing and Pooling (Lecture) |
+|11/17| Deep Graph Learning - Graph Generation (Lecture) |
+|11/22| Deep Graph Learning (Presentation) | 
+|11/24| Generative Active Learning (Lecture) |
+|11/29| Generative Active Learning (Presentation) |   
+|12/1| Large Language Models (Lecture) | 
+|12/6| Multimodal Generative Models (Lecture) | 
+|12/8| Language and Multimodal Generative Models (Presentation)|
+|12/13| **Final Presentation**
 
 ## Reading List
 
