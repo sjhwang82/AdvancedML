@@ -39,14 +39,14 @@ Office hours: By appointment only.
 |11/3| Meta Learning (Presentation) |
 |11/8| Continual Learning (Lecture) | 
 |11/10| Continual Learning (Presentation) 
-|11/15| Deep Graph Learning - Message Passing and Pooling (Lecture) |
-|11/17| Deep Graph Learning - Graph Generation (Lecture) |
-|11/22| Deep Graph Learning (Presentation) | 
-|11/24| Generative Active Learning (Lecture) |
-|11/29| Generative Active Learning (Presentation) |   
+|11/15| Generative Active Learning (Lecture) |
+|11/17| Generative Active Learning (Presentation) |
+|11/22| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|11/24| Deep Graph Learning - Graph Generation (Lecture) |
+|11/29| Deep Graph Learning (Presentation) |   
 |12/1| Large Language Models (Lecture) | 
 |12/6| Multimodal Generative Models (Lecture) | 
-|12/8| Language and Multimodal Generative Models (Presentation)|
+|12/8| Language and Multimodal Generative Models (Presentation) |
 |12/13| **Final Presentation**
 
 ## Reading List
