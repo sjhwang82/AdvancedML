@@ -119,6 +119,15 @@ Limited Data, NeurIPS 2020.
 [[Hudson and Zitnick 21]](https://arxiv.org/pdf/2103.01209.pdf) Generative Adversarial Transformers, ICML 2021.  
 [[Karras et al. 21]](https://nvlabs-fi-cdn.nvidia.com/alias-free-gan/alias-free-gan-paper.pdf) Alias-Free GAN, arXiv preprint, 2021.  
 
+#### Score-based Generative Models
+[[Song and Ermon 19]](https://proceedings.neurips.cc/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  
+[[Song and Ermon 20]](https://papers.nips.cc/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf) Improved Techniques for Training Score-Based Generative Models, NeurIPS 2020.  
+[[Ho et al. 20]](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) Denoising Diffusion Probabilistic Models, NeurIPS 2020.  
+[[Song et al. 21]](https://openreview.net/forum?id=PxTIG12RRHS) Score-Based Generative Modeling through Stochastic Differential Equations, ICLR 2021.  
+[[Nichol and Dhariwal 21]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) Improved Denoising Diffusion Probabilistic Models, ICML 2021.  
+[[Vahdat et al. 21]](https://proceedings.neurips.cc/paper/2021/file/5dca4c6b9e244d24a30b4c45601d9720-Paper.pdf) Score-based Generative Modeling in Latent Space, NeurIPS 2021.  
+
+
 ### Deep Reinforcement Learning 
 [[Mnih et al. 13]](https://arxiv.org/pdf/1312.5602.pdf) Playing Atari with Deep Reinforcement Learning, NIPS Deep Learning Workshop 2013.  
 [[Silver et al. 14]](http://proceedings.mlr.press/v32/silver14.pdf) Deterministic Policy Gradient Algorithms, ICML 2014.      
