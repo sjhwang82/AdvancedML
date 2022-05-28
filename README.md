@@ -32,7 +32,7 @@ Office hours: By appointment only.
 |10/6| Deep Generative Models - Score-based Generative Models (Lecture) | 
 |10/11| Deep Generative Models (Presentation) 
 |10/13| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|10/18| ** Mid-term Presentation ** |
+|10/18| **Mid-term Presentation** |
 |10/25| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |10/27| Deep Reinforcement Learning (Presentation) |   
 |11/1| Meta Learning (Lecture) | 
