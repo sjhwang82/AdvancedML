@@ -35,12 +35,12 @@ Office hours: By appointment only.
 |10/18| **Mid-term Presentation** |
 |10/25| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |10/27| Deep Reinforcement Learning (Presentation) |   
-|11/1| Meta Learning (Lecture) | 
-|11/3| Meta Learning (Presentation) |
-|11/8| Continual Learning (Lecture) | 
-|11/10| Continual Learning (Presentation) 
-|11/15| Generative Active Learning (Lecture) |
-|11/17| Generative Active Learning (Presentation) |
+|11/1| Generative Flow Networks (Lecture) |
+|11/3| Generative Flow Networks (Presentation) |
+|11/8| Artificial General Intelligence, Meta Learning (Lecture) | 
+|11/10| Meta Learning (Presentation) |
+|11/15| Continual Learning (Lecture) | 
+|11/17| Continual Learning (Presentation) |
 |11/22| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
 |11/24| Deep Graph Learning - Graph Generation (Lecture) |
 |11/29| Deep Graph Learning (Presentation) |   
