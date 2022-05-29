@@ -27,27 +27,26 @@ Office hours: By appointment only.
 |9/15| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
 |9/20| Bayesian Deep Learning (Presentation) | 
 |9/22| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|9/27| No Lecture
-|9/29| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|10/4| Deep Generative Models (Presentation)
-|10/6| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/11| Deep Generative Models (Presentation) 
-|10/13| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|10/18| **Mid-term Presentation** |
-|10/25| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|10/27| Deep Reinforcement Learning (Presentation) |   
-|11/1| Generative Flow Networks (Lecture) |
-|11/3| Generative Flow Networks (Presentation) |
-|11/8| Artificial General Intelligence, Meta Learning (Lecture) | 
-|11/10| Meta Learning (Presentation) |
-|11/15| Continual Learning (Lecture) | 
-|11/17| Continual Learning (Presentation) |
-|11/22| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|11/24| Deep Graph Learning - Graph Generation (Lecture) |
-|11/29| Deep Graph Learning (Presentation) |   
-|12/1| Large Language Models (Lecture) | 
-|12/6| Multimodal Generative Models (Lecture) | 
-|12/8| Language and Multimodal Generative Models (Presentation) |
+|9/27| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|9/29| Deep Generative Models (Presentation)
+|10/4| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/6| Deep Generative Models (Presentation) 
+|10/11| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|10/13| **Mid-term Presentation** |
+|10/18| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|10/25| Deep Reinforcement Learning (Presentation) |   
+|11/27| Generative Flow Networks (Lecture) |
+|11/1| Generative Flow Networks (Presentation) |
+|11/3| Artificial General Intelligence, Meta Learning (Lecture) | 
+|11/8| Meta Learning (Presentation) |
+|11/10| Continual Learning (Lecture) | 
+|11/15| Continual Learning (Presentation) |
+|11/17| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|11/22| Deep Graph Learning - Graph Generation (Lecture) |
+|11/24| Deep Graph Learning (Presentation) |   
+|11/29| Large Language Models (Lecture) | 
+|12/1| Multimodal Generative Models (Lecture) | 
+|12/3| Language and Multimodal Generative Models (Presentation) |
 |12/13| **Final Presentation**
 
 ## Reading List
