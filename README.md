@@ -21,32 +21,31 @@ Office hours: By appointment only.
 |---|:---|
 |8/29| Course Introduction |
 |9/1| Review of Deep Learning Basics (Video Lecture) |
-|9/6| Vision Transformers (Lecture)
-|9/8| Self-Supervised Learning (Lecture) |
-|9/13| Self-Supervised Learning (Presentation) |
-|9/15| Large Language Models (Lecture) | 
-|9/20| Multimodal Generative Models (Lecture) | 
-|9/22| Language and Multimodal Generative Models (Presentation) |
-|9/27| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/29| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
-|10/4| Bayesian Deep Learning (Presentation) | 
-|10/6| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|10/11| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|10/13| **Mid-term Presentation** |
-|10/18| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/25| Deep Generative Models (Presentation) 
-|10/27| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|11/1| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|11/3| Deep Reinforcement Learning (Presentation) |   
-|11/8| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
-|11/10| Meta Learning (Presentation) |
-|11/15| Continual Learning (Lecture) | 
-|11/17| Continual Learning (Presentation) |
-|11/22| Federated Learning (Lecture) | 
-|11/24| Federated Learning (Presentation) |
-|11/29| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|12/1| Deep Graph Learning - Graph Generation (Lecture) |
-|12/3| Deep Graph Learning (Presentation) |   
+|9/6| Self-Supervised Learning (Lecture) |
+|9/8| Self-Supervised Learning (Presentation) |
+|9/13| Large Language Models (Lecture) | 
+|9/15| Multimodal Generative Models (Lecture) | 
+|9/20| Language and Multimodal Generative Models (Presentation) |
+|9/22| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/27| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
+|9/29| Bayesian Deep Learning (Presentation) | 
+|10/4| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|10/6| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|10/11| **Mid-term Presentation** |
+|10/13| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/18| Deep Generative Models (Presentation) 
+|10/25| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|10/27| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/1| Deep Reinforcement Learning (Presentation) |   
+|11/3| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/8| Meta Learning (Presentation) |
+|11/10| Continual Learning (Lecture) | 
+|11/15| Continual Learning (Presentation) |
+|11/17| Federated Learning (Lecture) | 
+|11/22| Federated Learning (Presentation) |
+|11/24| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|11/29| Deep Graph Learning - Graph Generation (Lecture) |
+|12/1| Deep Graph Learning (Presentation) |   
 |12/13| **Final Presentation**
 
 ## Reading List
@@ -381,6 +380,10 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/439-Paper.pdf) Neural Architecture Search in A Proxy Validation Loss Landscape, ICML 2020.  
 [[Lee et al. 21]](https://openreview.net/forum?id=rkQuFUmUOg3) Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets, ICLR 2021.  
 [[Mellor et al. 21]](https://arxiv.org/pdf/2006.04647.pdf) Neural Architecture Search without Training, ICML 2021.  
+
+###Language Models
+
+###Multimodal Generative Models
 
 <!--
 ## Deep Learning for Time-series Analysis
