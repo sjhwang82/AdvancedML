@@ -2,11 +2,11 @@
 
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
-**TAs:** Haebeom Lee (haebeom.lee@kaist.ac.kr), Jinheon Baek (jinheon.baek@kaist.ac.kr), Seul Lee (animecult@kaist.ac.kr), Wonyong Jeong (wyjeong@kaist.ac.kr)
+**TAs:** Seul Lee (animecult@kaist.ac.kr), Wonyong Jeong (wyjeong@kaist.ac.kr), Jaehyeong Jo (harryjo97@kaist.ac.kr), Dongki Kim (cleverki@kaist.ac.kr), Dongchan Min (alsehdcks95@kaist.ac.kr)
 
 **Office:** 
-This is an online course.
-E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
+This is an on/offline hybrid course.
+Building Nubmer 9, Room 9201 (Instructor) 2nd floor (TAs)  
 Office hours: By appointment only.
 
 ### Grading Policy
@@ -21,32 +21,33 @@ Office hours: By appointment only.
 |---|:---|
 |8/29| Course Introduction |
 |9/1| Review of Deep Learning Basics (Video Lecture) |
-|9/6| Self-Supervised Learning (Lecture) 
-|9/8| Self-Supervised Learning (Presentation)
-|9/13| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/15| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
-|9/20| Bayesian Deep Learning (Presentation) | 
-|9/22| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|9/27| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|9/29| Deep Generative Models (Presentation)
-|10/4| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/6| Deep Generative Models (Presentation) 
-|10/11| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|9/6| Vision Transformers (Lecture)
+|9/8| Self-Supervised Learning (Lecture) |
+|9/13| Self-Supervised Learning (Presentation) |
+|9/15| Large Language Models (Lecture) | 
+|9/20| Multimodal Generative Models (Lecture) | 
+|9/22| Language and Multimodal Generative Models (Presentation) |
+
+|9/27| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/29| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
+|10/4| Bayesian Deep Learning (Presentation) | 
+|10/6| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|10/11| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
 |10/13| **Mid-term Presentation** |
-|10/18| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|10/25| Deep Reinforcement Learning (Presentation) |   
-|10/27| Generative Flow Networks (Lecture) |
-|11/1| Generative Flow Networks (Presentation) |
-|11/3| Artificial General Intelligence, Meta Learning (Lecture) | 
-|11/8| Meta Learning (Presentation) |
-|11/10| Continual Learning (Lecture) | 
-|11/15| Continual Learning (Presentation) |
-|11/17| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|11/22| Deep Graph Learning - Graph Generation (Lecture) |
-|11/24| Deep Graph Learning (Presentation) |   
-|11/29| Large Language Models (Lecture) | 
-|12/1| Multimodal Generative Models (Lecture) | 
-|12/3| Language and Multimodal Generative Models (Presentation) |
+|10/18| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/25| Deep Generative Models (Presentation) 
+|10/27| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|11/1| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/3| Deep Reinforcement Learning (Presentation) |   
+|11/8| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/10| Meta Learning (Presentation) |
+|11/15| Continual Learning (Lecture) | 
+|11/17| Continual Learning (Presentation) |
+|11/22| Federated Learning (Lecture) | 
+|11/24| Federated Learning (Presentation) |
+|11/29| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|12/1| Deep Graph Learning - Graph Generation (Lecture) |
+|12/3| Deep Graph Learning (Presentation) |   
 |12/13| **Final Presentation**
 
 ## Reading List
