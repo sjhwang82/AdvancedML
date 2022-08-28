@@ -27,7 +27,6 @@ Office hours: By appointment only.
 |9/15| Large Language Models (Lecture) | 
 |9/20| Multimodal Generative Models (Lecture) | 
 |9/22| Language and Multimodal Generative Models (Presentation) |
-
 |9/27| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
 |9/29| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
 |10/4| Bayesian Deep Learning (Presentation) | 
