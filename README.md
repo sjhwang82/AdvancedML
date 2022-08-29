@@ -24,30 +24,30 @@ Office hours: By appointment only.
 |9/6| Vision Transformers (Lecture) |
 |9/8| Self-Supervised Learning (Lecture) |
 |9/13| Self-Supervised Learning (Presentation) | 
-|9/15| Large Language Models (Lecture) | 
-|9/20| Large Language Models (Presentation) | 
-|9/22| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/27| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  | 
-|9/29| Bayesian Deep Learning (Presentation) **Initial Research Proposal Due 9/30** | 
-|10/5| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|10/7| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|10/12| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/14| Deep Generative Models (Presentation) 
+|9/15| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/20| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  | 
+|9/22| Bayesian Deep Learning (Presentation) |
+|9/27| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|9/29| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|10/4| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/6| Deep Generative Models (Presentation) 
+|10/11| Large Language Models (Lecture) | 
+|10/13| Large Language Models (Presentation) |
 |10/18| **Mid-term Presentation**
 |10/25| Multimodal Generative Models (Lecture) | 
 |10/27| Multimodal Generative Models (Presentation) |
-|10/27| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|11/1| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|11/3| Deep Reinforcement Learning (Presentation) |   
-|11/8| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
-|11/10| Meta Learning (Presentation) |
-|11/15| Continual Learning (Lecture) | 
-|11/17| Continual Learning (Presentation) |
-|11/22| Federated Learning (Lecture) | 
-|11/24| Federated Learning (Presentation) |
-|11/29| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|12/1| Deep Graph Learning - Graph Generation (Lecture) |
-|12/3| Deep Graph Learning (Presentation) |   
+|11/1| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|11/3| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/8| Deep Reinforcement Learning (Presentation) |   
+|11/10| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/15| Meta Learning (Presentation) |
+|11/17| Continual Learning (Lecture) | 
+|11/22| Continual Learning (Presentation) |
+|11/24| Federated Learning (Lecture) | 
+|11/29| Federated Learning (Presentation) |
+|12/1| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|12/3| Deep Graph Learning - Graph Generation (Lecture) |
+|12/8| Deep Graph Learning (Presentation) |   
 |12/13| **Final Presentation**
 
 ## Reading List
