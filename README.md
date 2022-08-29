@@ -32,10 +32,9 @@ Office hours: By appointment only.
 |10/4| Deep Generative Models - Score-based Generative Models (Lecture) | 
 |10/6| Deep Generative Models (Presentation) 
 |10/11| Large Language Models (Lecture) | 
-|10/13| Large Language Models (Presentation) |
+|10/13| Multimodal Generative Models (Presentation) |
 |10/18| **Mid-term Presentation**
-|10/25| Multimodal Generative Models (Lecture) | 
-|10/27| Multimodal Generative Models (Presentation) |
+|10/25| Large Language Models and Multimodal Generative Models (Presentation) | 
 |11/1| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
 |11/3| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |11/8| Deep Reinforcement Learning (Presentation) |   
