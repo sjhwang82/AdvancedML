@@ -25,16 +25,17 @@ Office hours: By appointment only.
 |9/8| Self-Supervised Learning (Lecture) |
 |9/13| Self-Supervised Learning (Presentation) | 
 |9/15| Large Language Models (Lecture) | 
-|9/20| Multimodal Generative Models (Lecture) | 
-|9/22| Large Language Models and Multimodal Generative Models (Presentation) |
-|9/27| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/29| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  **Initial Research Proposal Due 9/30** | 
-|10/4| Bayesian Deep Learning (Presentation)| 
-|10/6| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|10/11| **Mid-term Presentation** |
-|10/13| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|10/18| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/25| Deep Generative Models (Presentation) 
+|9/20| Large Language Models (Presentation) | 
+|9/22| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/27| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  | 
+|9/29| Bayesian Deep Learning (Presentation) **Initial Research Proposal Due 9/30** | 
+|10/5| Deep Generative Models - Generative Adversarial Networks (Lecture) |
+|10/7| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|10/12| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/14| Deep Generative Models (Presentation) 
+|10/18| **Mid-term Presentation**
+|10/25| Multimodal Generative Models (Lecture) | 
+|10/27| Multimodal Generative Models (Presentation) |
 |10/27| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
 |11/1| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |11/3| Deep Reinforcement Learning (Presentation) |   
