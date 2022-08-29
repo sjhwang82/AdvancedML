@@ -21,14 +21,14 @@ Office hours: By appointment only.
 |---|:---|
 |8/29| Course Introduction |
 |9/1| Review of Deep Learning Basics (Video Lecture) |
-|9/6| Self-Supervised Learning (Lecture) |
-|9/8| Self-Supervised Learning (Presentation) |
-|9/13| Large Language Models (Lecture) | 
+|9/6| Vision Transformers (Lecture) |
+|9/8| Self-Supervised Learning (Lecture) |
+|9/13| Self-Supervised Learning (Presentation) | 
 |9/15| Multimodal Generative Models (Lecture) | 
-|9/20| Language and Multimodal Generative Models (Presentation) |
+|9/20| Multimodal Generative Models (Presentation) |
 |9/22| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
 |9/27| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
-|9/29| Bayesian Deep Learning (Presentation) | 
+|9/29| Bayesian Deep Learning (Presentation) **Initial Proposal Due 9/30** | 
 |10/4| Deep Generative Models - Generative Adversarial Networks (Lecture) |
 |10/6| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
 |10/11| **Mid-term Presentation** |
