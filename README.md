@@ -24,31 +24,58 @@ Office hours: By appointment only.
 |9/6| Vision Transformers (Lecture) |
 |9/8| Self-Supervised Learning (Lecture) |
 |9/13| Self-Supervised Learning (Presentation) | 
-|9/15| Multimodal Generative Models (Lecture) | 
-|9/20| Multimodal Generative Models (Presentation) |
-|9/22| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/27| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture) | 
-|9/29| Bayesian Deep Learning (Presentation) **Initial Proposal Due 9/30** | 
-|10/4| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|10/6| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|9/15| Large Language Models (Lecture) | 
+|9/20| Multimodal Generative Models (Lecture) | 
+|9/22| Large Language Models and Multimodal Generative Models (Presentation) |
+|9/27| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
+|9/29| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  **Initial Research Proposal Due 9/30** | 
+|10/4| Bayesian Deep Learning (Presentation)| 
+|10/6| Deep Generative Models - Generative Adversarial Networks (Lecture) |
 |10/11| **Mid-term Presentation** |
-|10/13| Deep Generative Models - Score-based Generative Models (Lecture) | 
-|10/18| Deep Generative Models (Presentation) 
-|10/25| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|10/27| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|11/1| Deep Reinforcement Learning (Presentation) |   
-|11/3| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
-|11/8| Meta Learning (Presentation) |
-|11/10| Continual Learning (Lecture) | 
-|11/15| Continual Learning (Presentation) |
-|11/17| Federated Learning (Lecture) | 
-|11/22| Federated Learning (Presentation) |
-|11/24| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|11/29| Deep Graph Learning - Graph Generation (Lecture) |
-|12/1| Deep Graph Learning (Presentation) |   
+|10/13| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|10/18| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/25| Deep Generative Models (Presentation) 
+|10/27| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|11/1| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/3| Deep Reinforcement Learning (Presentation) |   
+|11/8| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/10| Meta Learning (Presentation) |
+|11/15| Continual Learning (Lecture) | 
+|11/17| Continual Learning (Presentation) |
+|11/22| Federated Learning (Lecture) | 
+|11/24| Federated Learning (Presentation) |
+|11/29| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|12/1| Deep Graph Learning - Graph Generation (Lecture) |
+|12/3| Deep Graph Learning (Presentation) |   
 |12/13| **Final Presentation**
 
 ## Reading List
+
+### Self-Supervised Learning
+<!--
+[[Oliver et al. 18]](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) Realistic Evaluation of Deep Semi-Supervised Learning Algorithms, NeurIPS 2018.  
+[[Berthelot et al. 19]](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf) MixMatch: A Holistic Approach to Semi-Supervised Learning, NeurIPS 2019.  
+[[Sohn et al. 20]](https://arxiv.org/pdf/2001.07685.pdf) Fixmatch: Simplifying semi-supervised learning with consistency and confidence, arXiv prepring, 2020.--> 
+[[Dosovitskiy et al. 14]](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks.pdf) Discriminative Unsupervised Feature Learning with Convolutional Neural Networks, NIPS 2014.  
+[[Pathak et al. 16]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) Context Encoders: Feature Learning by Inpainting, CVPR 2016.  
+[[Norrozi and Favaro et al. 16]](https://arxiv.org/pdf/1603.09246.pdf) Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles, ECCV 2016.   
+[[Gidaris et al. 18]](https://openreview.net/pdf?id=S1v4N2l0-) Unsupervised Representation Learning by Predicting Image Rotations, ICLR 2018.  
+[[He et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) Momentum Contrast for Unsupervised Visual Representation Learning, CVPR 2020.  
+[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf) A Simple Framework for Contrastive Learning of Visual Representations, ICML 2020.  
+[[Mikolov et al. 13]](https://arxiv.org/pdf/1301.3781.pdf) Efficient Estimation of Word Representations in Vector Space, ICLR 2013.  
+[[Devlin et al. 19]](https://www.aclweb.org/anthology/N19-1423.pdf) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019.  
+[[Clark et al. 20]](https://openreview.net/pdf?id=r1xMH1BtvB) ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, ICLR 2020.  
+[[Hu et al. 20]](https://openreview.net/forum?id=HJlWWJSFDH) Strategies for Pre-training Graph Neural Networks, ICLR 2020.  
+[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6022-Paper.pdf) Generative Pretraining from Pixels, ICML 2020.  
+[[Laskin et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5951-Paper.pdf) CURL: Contrastive Unsupervised Representations for Reinforcement Learning, ICML 2020. 
+[[Grill et al. 20]](https://arxiv.org/pdf/2006.07733.pdf) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, NeurIPS 2020.    
+[[Chen et al. 20]](https://arxiv.org/pdf/2006.10029v1.pdf) Big Self-Supervised Models are Strong Semi-Supervised Learners, NeurIPS, 2020.   
+[[Chen and He. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) Exploring Simple Siamese Representation Learning, CVPR 2021.  
+[[Tian et al. 21]](https://arxiv.org/pdf/2102.06810.pdf) Understanding Self-Supervised Learning Dynamics without Contrastive Pairs, ICML 2021.  
+[[Caron et al. 21]](https://arxiv.org/pdf/2104.14294.pdf) Emerging Properties in Self-Supervised Vision Transformers, ICCV 2021.  
+***
+[[He et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) Masked Autoencoders are Scalable Vision Learners, CVPR 2022.  
+
 
 ### Bayesian Deep Learning
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
@@ -125,7 +152,9 @@ Limited Data, NeurIPS 2020.
 [[Song et al. 21]](https://openreview.net/forum?id=PxTIG12RRHS) Score-Based Generative Modeling through Stochastic Differential Equations, ICLR 2021.  
 [[Nichol and Dhariwal 21]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) Improved Denoising Diffusion Probabilistic Models, ICML 2021.  
 [[Vahdat et al. 21]](https://proceedings.neurips.cc/paper/2021/file/5dca4c6b9e244d24a30b4c45601d9720-Paper.pdf) Score-based Generative Modeling in Latent Space, NeurIPS 2021.  
-
+***
+[[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022. [[Salimans and Ho 22]](https://openreview.net/forum?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.   
+[[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022. 
 
 ### Deep Reinforcement Learning 
 [[Mnih et al. 13]](https://arxiv.org/pdf/1312.5602.pdf) Playing Atari with Deep Reinforcement Learning, NIPS Deep Learning Workshop 2013.  
@@ -300,38 +329,16 @@ in Continual Learning, NeurIPS 2020.
 [[Xu et al. 19]](https://openreview.net/forum?id=ryGs6iA5Km) How Powerful are Graph Neural Networks?, ICLR 2019.  
 [[Maron et al. 19]](https://papers.nips.cc/paper/8488-provably-powerful-graph-networks.pdf) Provably Powerful Graph Networks, NeurIPS 2019.  
 [[Yun et al. 19]](https://papers.nips.cc/paper/9367-graph-transformer-networks.pdf) Graph Transformer Neteworks, NeurIPS 2019.  
-***
 [[Loukas 20]](https://arxiv.org/pdf/1907.03199.pdf) What Graph Neural Networks Cannot Learn: Depth vs Width, ICLR 2020.  
 [[Bianchi et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1614-Paper.pdf) Spectral Clustering with Graph Neural Networks for Graph Pooling, ICML 2020.  
 [[Xhonneux et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4075-Paper.pdf) Continuous Graph Neural Networks, ICML 2020.  
 [[Garg et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2911-Paper.pdf) Generalization and Representational Limits of Graph Neural Networks, ICML 2020.  
 [[Baek et al. 21]](https://openreview.net/forum?id=JHcqXGaqiGn) Accurate Learning of Graph Representations with Graph Multiset Pooling, ICLR 2021.  
 [[Liu et al. 21]](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) Elastic Graph Neural Networks, ICML 2021.  
+[[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.  
+###
+[[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 
-
-### Self-Supervised Learning
-<!--
-[[Oliver et al. 18]](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) Realistic Evaluation of Deep Semi-Supervised Learning Algorithms, NeurIPS 2018.  
-[[Berthelot et al. 19]](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf) MixMatch: A Holistic Approach to Semi-Supervised Learning, NeurIPS 2019.  
-[[Sohn et al. 20]](https://arxiv.org/pdf/2001.07685.pdf) Fixmatch: Simplifying semi-supervised learning with consistency and confidence, arXiv prepring, 2020.--> 
-[[Dosovitskiy et al. 14]](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks.pdf) Discriminative Unsupervised Feature Learning with Convolutional Neural Networks, NIPS 2014.  
-[[Pathak et al. 16]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) Context Encoders: Feature Learning by Inpainting, CVPR 2016.  
-[[Norrozi and Favaro et al. 16]](https://arxiv.org/pdf/1603.09246.pdf) Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles, ECCV 2016.   
-[[Gidaris et al. 18]](https://openreview.net/pdf?id=S1v4N2l0-) Unsupervised Representation Learning by Predicting Image Rotations, ICLR 2018.  
-[[He et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) Momentum Contrast for Unsupervised Visual Representation Learning, CVPR 2020.  
-[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf) A Simple Framework for Contrastive Learning of Visual Representations, ICML 2020.  
-[[Mikolov et al. 13]](https://arxiv.org/pdf/1301.3781.pdf) Efficient Estimation of Word Representations in Vector Space, ICLR 2013.  
-[[Devlin et al. 19]](https://www.aclweb.org/anthology/N19-1423.pdf) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019.  
-[[Clark et al. 20]](https://openreview.net/pdf?id=r1xMH1BtvB) ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, ICLR 2020.  
-[[Hu et al. 20]](https://openreview.net/forum?id=HJlWWJSFDH) Strategies for Pre-training Graph Neural Networks, ICLR 2020.  
-[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6022-Paper.pdf) Generative Pretraining from Pixels, ICML 2020.  
-[[Laskin et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5951-Paper.pdf) CURL: Contrastive Unsupervised Representations for Reinforcement Learning, ICML 2020. 
-[[Grill et al. 20]](https://arxiv.org/pdf/2006.07733.pdf) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, NeurIPS 2020.    
-[[Chen et al. 20]](https://arxiv.org/pdf/2006.10029v1.pdf) Big Self-Supervised Models are Strong Semi-Supervised Learners, NeurIPS, 2020.   
-***
-[[Chen and He. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) Exploring Simple Siamese Representation Learning, CVPR 2021.  
-[[Tian et al. 21]](https://arxiv.org/pdf/2102.06810.pdf) Understanding Self-Supervised Learning Dynamics without Contrastive Pairs, ICML 2021.  
-[[Caron et al. 21]](https://arxiv.org/pdf/2104.14294.pdf) Emerging Properties in Self-Supervised Vision Transformers, ICCV 2021.  
 
 ### Federated Learning
 [[Konečný et al. 16]](https://arxiv.org/pdf/1610.02527.pdf) Federated Optimization: Distributed Machine Learning for On-Device Intelligence, arXiv Preprint, 2016.  
@@ -382,6 +389,7 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Mellor et al. 21]](https://arxiv.org/pdf/2006.04647.pdf) Neural Architecture Search without Training, ICML 2021.  
 
 ###Language Models
+[[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.
 
 ###Multimodal Generative Models
 
