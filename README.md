@@ -2,7 +2,7 @@
 
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
-**TAs:** Seul Lee (animecult@kaist.ac.kr), Wonyong Jeong (wyjeong@kaist.ac.kr), Jaehyeong Jo (harryjo97@kaist.ac.kr), Dongki Kim (cleverki@kaist.ac.kr), Dongchan Min (alsehdcks95@kaist.ac.kr)
+**TAs:** Seul Lee (animecult@kaist.ac.kr) and Jaehyeong Jo (harryjo97@kaist.ac.kr)
 
 **Office:** 
 This is an on/offline hybrid course.
