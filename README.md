@@ -56,6 +56,7 @@ Office hours: By appointment only.
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021.  
 [[Dai et al. 21]](https://proceedings.neurips.cc/paper/2021/file/20568692db622456cc42a2e853ca21f8-Paper.pdf) CoAtNet: Marrying Convolution and Attnetion for All Data Sizes, NeurIPS 2021.  
 [[Yang et al. 21]](https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf) Focal Attention for Long-Range Interactions in Vision Transformers, NeurIPS 2021.  
+[[El-Nouby et al. 21]](https://proceedings.neurips.cc/paper/2021/file/a655fbe4b8d7439994aa37ddad80de56-Paper.pdf) XCiT: Cross-Covariance Image Transformers, NeurIPS 2021.  
 [[Li et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.pdf) MViTv2: Improved Multiscale Vision Transformers for Classification and Detection, CVPR 2022.  
 [[Lee et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.pdf) MPViT : Multi-Path Vision Transformer for Dense Prediction, CVPR 2022.  
 
