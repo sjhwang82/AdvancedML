@@ -29,7 +29,7 @@ Office hours: By appointment only.
 |9/22| Bayesian Deep Learning (Presentation) |
 |9/27| Deep Generative Models - Advanced GANs (Lecture) |
 |9/29| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
-|10/4| Deep Generative Models - Score-based Generative Models (Lecture) | 
+|10/4| Deep Generative Models - Diffusion Models (Lecture) | 
 |10/6| Deep Generative Models (Presentation) 
 |10/11| Large Language Models (Lecture) | 
 |10/13| Multimodal Generative Models (Lecture) |
@@ -154,7 +154,7 @@ Limited Data, NeurIPS 2020.
 ***
 
 
-#### Score-based Generative Models
+#### Diffusion Models
 [[Song and Ermon 19]](https://proceedings.neurips.cc/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  
 [[Song and Ermon 20]](https://papers.nips.cc/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf) Improved Techniques for Training Score-Based Generative Models, NeurIPS 2020.  
 [[Ho et al. 20]](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) Denoising Diffusion Probabilistic Models, NeurIPS 2020.  
