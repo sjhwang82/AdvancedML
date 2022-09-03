@@ -53,6 +53,7 @@ Office hours: By appointment only.
 
 ### Vision Transformers
 [[Dosovitskiy et al. 21]](https://openreview.net/forum?id=YicbFdNTTy) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021.  
+[[Touvron et al. 21]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf) Training Data-efficient Image transformers & Distillation through Attention, ICML 2021.  
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021.  
 [[Dai et al. 21]](https://proceedings.neurips.cc/paper/2021/file/20568692db622456cc42a2e853ca21f8-Paper.pdf) CoAtNet: Marrying Convolution and Attnetion for All Data Sizes, NeurIPS 2021.  
 [[Yang et al. 21]](https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf) Focal Attention for Long-Range Interactions in Vision Transformers, NeurIPS 2021.  
