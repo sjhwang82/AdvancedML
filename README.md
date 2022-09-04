@@ -89,7 +89,7 @@ Office hours: By appointment only.
 [[Liu et al. 22]](https://openreview.net/forum?id=4AZz9osqrar) Self-supervised Learning is More Robust to Dataset Imbalance, ICLR 2022.  
 [[Bao et al. 22]](https://openreview.net/pdf?id=p-BhZSz59o4) BEiT: BERT Pre-Training of Image Transformers, ICLR 2022.  
 [[He et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) Masked Autoencoders are Scalable Vision Learners, CVPR 2022.  
-[[Liu et al. 22]](https://arxiv.org/pdf/2203.15508.pdf) Improving Contrastive Learning with Model Augmetnation, arXiv preprint, 2022. 
+[[Liu et al. 22]](https://arxiv.org/pdf/2203.15508.pdf) Improving Contrastive Learning with Model Augmetnation, arXiv preprint, 2022.  
 [[Touvron et al. 22]](https://arxiv.org/abs/2204.07118) DeIT III: Revenge of the VIT, arXiv preprint, 2022.
 
 ### Bayesian Deep Learning
