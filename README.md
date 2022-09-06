@@ -181,10 +181,13 @@ Limited Data, NeurIPS 2020.
 [[Song et al. 21]](https://openreview.net/forum?id=PxTIG12RRHS) Score-Based Generative Modeling through Stochastic Differential Equations, ICLR 2021.  
 [[Nichol and Dhariwal 21]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) Improved Denoising Diffusion Probabilistic Models, ICML 2021.  
 [[Vahdat et al. 21]](https://proceedings.neurips.cc/paper/2021/file/5dca4c6b9e244d24a30b4c45601d9720-Paper.pdf) Score-based Generative Modeling in Latent Space, NeurIPS 2021.  
+[[Ho and Salimans 22]](https://arxiv.org/pdf/2207.12598.pdf) Classifier-Free Diffusion Guidance, arXiv preprint, 2022.
 ***
-[[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022.   
+[[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022.  
+[[Salimans and Ho 22]](https://openreview.net/pdf?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.  
 [[Salimans and Ho 22]](https://openreview.net/forum?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.   
 [[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022. 
+
 
 ### Deep Reinforcement Learning 
 [[Mnih et al. 13]](https://arxiv.org/pdf/1312.5602.pdf) Playing Atari with Deep Reinforcement Learning, NIPS Deep Learning Workshop 2013.  
@@ -214,7 +217,9 @@ Error Reduction, NeurIPS 2019.
 [[Mai et al. 22]](https://openreview.net/pdf?id=vrW3tvDfOJQ) Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation, ICLR 2022.  
 [[Furuta et al. 22]](https://openreview.net/forum?id=CAjxVodl_v) Generalized Decision Transformer for Offline Hindsight Information Matching, ICLR 2022.  
 [[Oh et al. 22]](https://openreview.net/forum?id=WuEiafqdy9H) Model-augmented Prioritized Experience Replay, ICLR 2022.  
-
+[[Rengarajan et al. 22]](https://openreview.net/pdf?id=YJ1WzgMVsMt) Reinforcement Learning with Sparse Rewards Using Guidance from Offline Demonstration, ICLR 2022.  
+[[Patil et al. 22]](https://proceedings.mlr.press/v162/patil22a/patil22a.pdf) Align-RUDDER: Learning from Few Demonstrations by Reward Redistribution, ICML 2022.  
+[[Goyal et al. 22]](https://proceedings.mlr.press/v162/goyal22a/goyal22a.pdf) Retrieval Augmented Reinforcement Learning, ICML 2022.  
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
