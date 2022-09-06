@@ -159,11 +159,13 @@ Models of Discrete Data, NeurIPS 2019.
 [[Karras et al. 20]](https://papers.nips.cc/paper/2020/file/8d30aa96e72440759f74bd2306c1fa3d-Paper.pdf) Training Generative Adversarial Networks with
 Limited Data, NeurIPS 2020.  
 [[Liu et al. 21]](https://openreview.net/pdf?id=1Fqg133qRaI) Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis, ICLR 2021.  
+[[Esser et al. 22]](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf) Taming Transformers for High-Resolution Image Synthesis, CVPR 2021.  
 [[Hudson and Zitnick 21]](https://arxiv.org/pdf/2103.01209.pdf) Generative Adversarial Transformers, ICML 2021.  
 [[Karras et al. 21]](https://proceedings.neurips.cc/paper/2021/file/076ccd93ad68be51f23707988e934906-Paper.pdf) Alias-Free Generative Adversarial Networks, NeurIPS 2021.  
 ***
 [[Skorokhodov et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2, CVPR 2022.  
-
+[[Lee et al. 22]](https://openreview.net/pdf?id=dwg5rXg1WS_) ViTGAN: Training GANs with Vision Transformers, ICLR 2022.  
+[[Yu et al. 22]](https://openreview.net/forum?id=pfNyExj7z2) Vector-Quantized Image Modeling with Improved VQGAN, ICLR 2022.  
 
 
 #### Diffusion Models
