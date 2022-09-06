@@ -28,7 +28,7 @@ Office hours: By appointment only.
 |9/20| Bayesian Deep Learning - Functional BNNs, Neural Processes (Lecture)  | 
 |9/22| Bayesian Deep Learning (Presentation) |
 |9/27| Deep Generative Models - Advanced GANs (Lecture) |
-|9/29| Deep Generative Models - Autoregressive and Flow-Based Models (Lecture) |
+|9/29| Deep Generative Models - Advanced GANs (Presentation) |
 |10/4| Deep Generative Models - Diffusion Models (Lecture) | 
 |10/6| Deep Generative Models (Presentation) 
 |10/11| Large Language Models (Lecture) | 
