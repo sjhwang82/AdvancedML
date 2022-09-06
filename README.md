@@ -42,8 +42,8 @@ Office hours: By appointment only.
 |11/15| Meta Learning (Presentation) |
 |11/17| Continual Learning (Lecture) | 
 |11/22| Continual Learning (Presentation) |
-|11/24| Federated Learning (Lecture) | 
-|11/29| Federated Learning (Presentation) |
+|11/24| Robust Deep Learning (Lecture) | 
+|11/29| Robust Deep Learning (Presentation) |
 |12/1| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
 |12/3| Deep Graph Learning - Graph Generation (Lecture) |
 |12/8| Deep Graph Learning (Presentation) |   
