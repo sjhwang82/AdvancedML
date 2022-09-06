@@ -412,12 +412,12 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Mellor et al. 21]](https://arxiv.org/pdf/2006.04647.pdf) Neural Architecture Search without Training, ICML 2021.  
 ***
 
-###Large Language Models
+### Large Language Models
 ***
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
 
-###Multimodal Generative Models
+### Multimodal Generative Models
 ***
 [[Rombach et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022.  
 [[Nichol et al. 22]](https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf) GLIDE: Towards Photorealistic Image Generation and Editing with
