@@ -120,6 +120,7 @@ Perspective of Generalization, NeurIPS 2020.
 ***
 [[Fortuin et al. 22]](https://openreview.net/forum?id=xkjqJYqRJy) Bayesian Neural Network Priors Revisited, ICLR 2022.  
 [[Nazaret and Blei 22]](https://proceedings.mlr.press/v162/nazaret22a/nazaret22a.pdf) Variational Inference for Infinitely Deep Neural Networks, ICML 2022.  
+[[Lotfi et al. 22]](https://proceedings.mlr.press/v162/lotfi22a/lotfi22a.pdf) Bayesian Model Selection, the Marginal Likelihood, and Generalization, ICML 2022.  
 
 ### Deep Generative Models
 #### VAEs, Autoregressive and Flow-Based Generative Models
