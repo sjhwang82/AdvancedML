@@ -358,7 +358,7 @@ in Continual Learning, NeurIPS 2020.
 [[Liu et al. 21]](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) Elastic Graph Neural Networks, ICML 2021.  
 [[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.  
 [[Jo et al. 21]](https://openreview.net/forum?id=vwgsqRorzz) Edge Representation Learning with Hypergraphs, NeurIPS 2021.  
-###
+***
 [[Bevilacqua et al. 22]](https://openreview.net/pdf?id=dFbKQaRk15w) Equivariant Subgraph Aggregation Networks, ICLR 2022.  
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
