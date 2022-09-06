@@ -414,7 +414,7 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 
 ### Large Language Models
 ***
-[[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.
+[[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.  
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
 
 ### Multimodal Generative Models
