@@ -30,7 +30,7 @@ Office hours: By appointment only.
 |9/27| Deep Generative Models - Advanced GANs (Lecture) |
 |9/29| Deep Generative Models - Advanced GANs (Presentation) |
 |10/4| Deep Generative Models - Diffusion Models (Lecture) | 
-|10/6| Deep Generative Models (Presentation) 
+|10/6| Deep Generative Models - Diffusion Models (Presentation) 
 |10/11| Large Language Models (Lecture) | 
 |10/13| Multimodal Generative Models (Lecture) |
 |10/18| Large Language Models and Multimodal Generative Models (Presentation) | 
