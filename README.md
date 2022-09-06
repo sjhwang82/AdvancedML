@@ -135,11 +135,12 @@ Perspective of Generalization, NeurIPS 2020.
 [[Tran et al. 19]](https://papers.nips.cc/paper/9612-discrete-flows-invertible-generative-models-of-discrete-data.pdf) Discrete Flows: Invertible Generative
 Models of Discrete Data, NeurIPS 2019.  
 [[Ping et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/647-Paper.pdf) WaveFlow: A Compact Flow-based Model for Raw Audio, ICML 2020.  
-***
 [[Vahdat and Kautz 20]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, NeurIPS 2020.  
 [[Ho et al. 20]](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) Denoising Diffusion Probabilistic Models, NeurIPS 2020.  
 [[Song et al. 21]](https://openreview.net/forum?id=PxTIG12RRHS) Score-Based Generative Modeling through Stochastic Differential Equations, ICLR 2021.  
 [[Kosiorek et al. 21]](http://proceedings.mlr.press/v139/kosiorek21a/kosiorek21a.pdf) NeRF-VAE: A Geometry Aware 3D Scene Generative Model, ICML 2021.  
+***
+
 
 #### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
@@ -217,13 +218,12 @@ Applications, CVPR 2018.
 [[Morcos et al. 19]](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers, NeurIPS 2019.  
 [[Renda et al. 20]](https://openreview.net/pdf?id=S1gSj0NKvB) Comparing Rewinding and Fine-tuning in Neural Network Pruning, ICLR 2020.  
 [[Frankle et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5787-Paper.pdf) Linear Mode Connectivity and the Lottery Ticket Hypothesis, ICML 2020.  
-***
 [[Tanaka et al. 20]](https://proceedings.neurips.cc/paper/2020/file/46a4378f835dc8040c8057beb6a2da52-Paper.pdf) Pruning Neural Networks without Any Data by Iteratively Conserving Synaptic Flow, NeurIPS 2020.  
 [[van Baalen et al. 20]](https://proceedings.neurips.cc/paper/2020/file/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Paper.pdf) Bayesian Bits: Unifying Quantization and Pruning, NeurIPS 2020.  
 [[de Jorge et al. 21]](https://openreview.net/pdf?id=9GsFOUyUPi) Progressive Skeletonization: Trimming more fat from a network at initialization, ICLR 2021.  
 [[Stock et al. 21]](https://openreview.net/pdf?id=dV19Yyi1fS3) Training with Quantization Noise for Extreme Model Compression, ICLR 2021.  
 [[Lee et al. 21]](https://arxiv.org/abs/1911.12990) Semi-Relaxed Quantization with DropBits: Training Low-Bit Neural Networks via Bit-wise Regularization, ICCV 2021.  
-
+***
 
 
 ### Meta Learning
@@ -245,12 +245,15 @@ Applications, CVPR 2018.
 [[Raghu et al. 20]](https://openreview.net/pdf?id=rkgMkCEtPB) Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML, ICLR 2020.  
 [[Iakovleva et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4070-Paper.pdf) Meta-Learning with Shared Amortized Variational Inference, ICML 2020.   
 [[Bronskill et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2696-Paper.pdf) TaskNorm: Rethinking Batch Normalization for Meta-Learning, ICML 2020.   
-***
 [[Rajendran et al. 20]](https://proceedings.neurips.cc//paper/2020/file/3e5190eeb51ebe6c5bbc54ee8950c548-Paper.pdf) Meta-Learning Requires Meta-Augmentation, NeurIPS 2020.  
 [[Lee et al. 21]](https://openreview.net/forum?id=wS0UFjsNYjn) Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning, ICLR 2021.  
 [[Shin et al. 21]](http://proceedings.mlr.press/v139/shin21a/shin21a.pdf) Large-Scale Meta-Learning with Continual Trajectory Shifting, ICML 2021.  
 [[Acar et al. 21]](http://proceedings.mlr.press/v139/acar21b/acar21b.pdf) Memory Efficient Online Meta Learning, ICML 2021.  
 [[Bai et al. 21]](http://proceedings.mlr.press/v139/bai21a/bai21a.pdf) How Important is the Train-Validation Split in Meta-Learning?, ICML 2021.  
+***
+[[Lee et al. 22]](https://openreview.net/forum?id=01AMRlen9wJ) Online Hyperparameter Meta-Learning with Hypergradient Distillation, ICLR 2022.  
+[[Flennerhag et al. 22]](https://openreview.net/forum?id=b-ny3x071E5) Boostrapped Meta-Learning, ICLR 2022.  
+[[Yao et al. 22]](https://openreview.net/forum?id=ajXWF7bVR8d) Meta-Learning with Fewer TAsks through Task Interpolation, ICLR 2022.  
 
 
 ### Continual Learning
@@ -268,7 +271,6 @@ Applications, CVPR 2018.
 [[Jerfel et al. 20]](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) Reconciling Meta-Learning and Continual Learning with Online Mixtures of Tasks, NeurIPS 2019.  
 [[Yoon et al. 20]](https://openreview.net/forum?id=r1gdj2EKPB) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition, ICLR 2020.  
 [[Remasesh et al. 20]](https://arxiv.org/pdf/2007.07400.pdf) Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics, Continual Learning Workshop, ICML 2020.  
-***
 [[Borsos et al. 20]](https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf) Coresets via Bilevel Optimization for Continual
 Learning and Streaming, NeurIPS 2020.  
 [[Mirzadeh et al. 20]](https://proceedings.neurips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf) Understanding the Role of Training Regimes
@@ -276,6 +278,9 @@ in Continual Learning, NeurIPS 2020.
 [[Saha et al. 21]](https://openreview.net/pdf?id=3AOj0RCNC2) Gradient Projection Memory for Continual Learning, ICLR 2021.  
 [[Veinat et al. 21]](https://openreview.net/pdf?id=EKV158tSfwv) Efficient Continual Learning with Modular Networks and Task-Driven Priors, ICLR 2021.  
 [[Kumar et al. 21]](http://proceedings.mlr.press/v139/kumar21a/kumar21a.pdf) Bayesian Structural Adaptation for Continual Learning, ICML 2021.  
+***
+[[Madaan et al. 22]](https://openreview.net/forum?id=9Hrka5PA7LW) Representational Continuity for Unsupervised Continual Learning, ICLR 2022.    
+[[Yoon et al. 22]](https://openreview.net/forum?id=f9D-5WNG4Nv) Online Coreset Selection for Rehearsal-based Continual Learning, ICLR 2022.  
 
 
 
@@ -307,9 +312,10 @@ in Continual Learning, NeurIPS 2020.
 [[Kull et al. 19]](https://papers.nips.cc/paper/9397-beyond-temperature-scaling-obtaining-well-calibrated-multi-class-probabilities-with-dirichlet-calibration.pdf) Beyond temperature scaling: Obtaining well-calibrated multiclass probabilities with Dirichlet calibration, NeurIPS 2019.  
 [[Thulasidasan et al. 19]](https://papers.nips.cc/paper/9540-on-mixup-training-improved-calibration-and-predictive-uncertainty-for-deep-neural-networks.pdf) On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks, NeurIPS 2019.  
 [[Ovadia et al. 19]](https://papers.nips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift.pdf) Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift, NeurIPS 2019.  
-***
 [[Hendrycks et al. 20]](https://openreview.net/pdf?id=S1gmrxHFvB) AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty, ICLR 2020.  
 [[Filos et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2969-Paper.pdf) Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?, ICML 2020.  
+***
+
 
 ### Adversarially-Robust Deep Learning
 [[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing Properties of Neural Networks, ICLR 2014.    
@@ -351,8 +357,12 @@ in Continual Learning, NeurIPS 2020.
 [[Baek et al. 21]](https://openreview.net/forum?id=JHcqXGaqiGn) Accurate Learning of Graph Representations with Graph Multiset Pooling, ICLR 2021.  
 [[Liu et al. 21]](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) Elastic Graph Neural Networks, ICML 2021.  
 [[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.  
+[[Jo et al. 21]](https://openreview.net/forum?id=vwgsqRorzz) Edge Representation Learning with Hypergraphs, NeurIPS 2021.  
 ###
+[[Bevilacqua et al. 22]](https://openreview.net/pdf?id=dFbKQaRk15w) Equivariant Subgraph Aggregation Networks, ICLR 2022.  
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
+[[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
+[[Morris et al. 22]](https://proceedings.mlr.press/v162/morris22a/morris22a.pdf) SpeqNets: Sparsity-aware Permutation-equivariant Graph Networks, ICML 2022.  
 
 
 ### Federated Learning
@@ -403,9 +413,18 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 ***
 
 ###Large Language Models
+***
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.
+[[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
 
 ###Multimodal Generative Models
+***
+[[Rombach et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022.  
+[[Nichol et al. 22]](https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf) GLIDE: Towards Photorealistic Image Generation and Editing with
+Text-Guided Diffusion Models, ICML 2022.  
+[[Saharia et al. 22]](https://arxiv.org/abs/2205.11487) Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, arXiv preprint, 2022.  
+[[Yu et al. 22]](https://arxiv.org/abs/2206.10789) Scaling Autoregressive Models for Content-Rich Text-to-Image Generation, arXiv preprint, 2022.  
+
 
 <!--
 ## Deep Learning for Time-series Analysis
