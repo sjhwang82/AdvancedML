@@ -300,6 +300,11 @@ in Continual Learning, NeurIPS 2020.
 ***
 [[Madaan et al. 22]](https://openreview.net/forum?id=9Hrka5PA7LW) Representational Continuity for Unsupervised Continual Learning, ICLR 2022.    
 [[Yoon et al. 22]](https://openreview.net/forum?id=f9D-5WNG4Nv) Online Coreset Selection for Rehearsal-based Continual Learning, ICLR 2022.  
+[[Lin et al. 22]](https://openreview.net/pdf?id=iEvAf8i6JjO) TRGP: Trust Region Gradient Projection for Continual Learning, ICLR 2022.  
+[[Wang et al. 22]](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) Improving Task-free Continual Learning by Distributionally Robust Memory Evolution, ICML 2022.  
+[[Kang et al. 22]](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf) Forget-free Continual Learning with Winning Subnetworks, ICML 2022.  
+
+
 
 
 
@@ -359,8 +364,10 @@ in Continual Learning, NeurIPS 2020.
 [[Pang et al. 21]](https://openreview.net/pdf?id=Xb8xvrtB8Ce) Bag of Tricks for Adversarial Training, ICLR 2021.  
 [[Madaan et al. 21]](http://proceedings.mlr.press/v139/madaan21a/madaan21a.pdf) Learning to Generate Noise for Multi-Attack Robustness, ICML 2021.  
 ***
+[[Mladenovic et al. 22]](https://openreview.net/pdf?id=bYGSzbCM_i) Online Adversarial Attacks, ICLR 2022.  
 [[Zhang et al. 22]](https://openreview.net/pdf?id=W9G_ImpHlQd) How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective, ICLR 2022. [[Carlini and Terzis 22]](https://openreview.net/pdf?id=iC4UHbQ01Mp) Poisoning and Backdooring Contrastive Learning, ICLR 2022.  
-
+[[Croce et al. 22]](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) Evaluating the Adversarial Robustness of Adaptive Test-time Defenses, ICML 2022.  
+[[Zhou et al. 22]](https://proceedings.mlr.press/v162/zhou22m/zhou22m.pdf) Understanding the Robustness in Vision Transformers, ICML 2022.  
 
 
 ### Graph Neural Networks
