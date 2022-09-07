@@ -319,10 +319,10 @@ in Continual Learning, NeurIPS 2020.
 [[Heo et al. 18]](http://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf) Uncertainty-Aware Attention for Reliable Interpretation and Prediction, NeurIPS 2018.   
 [[Bau et al. 19]](https://openreview.net/pdf?id=Hyg_X2C5FX) GAN Dissection: Visualizing and Understanding Generative Adversarial Networks, ICLR 2019.   
 [[Ghorbani et al. 19]](https://papers.nips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) Towards Automatic Concept-based Explanations, NeurIPS 2019.  
-***
 [[Coenen et al. 19]](https://papers.nips.cc/paper/9065-visualizing-and-measuring-the-geometry-of-bert.pdf) Visualizing and Measuring the Geometry of BERT, NeurIPS 2019.  
 [[Heo et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/579-Paper.pdf) Cost-Effective Interactive Attention Learning with Neural Attention Processes, ICML 2020.  
 [[Agarwal et al. 20]](https://arxiv.org/pdf/2004.13912v1.pdf) Neural Additive Models: Interpretable Machine Learning with Neural Nets, arXiv preprint, 2020.  
+***
 
 ### Reliable Deep Learning
 [[Guo et al. 17]](https://arxiv.org/pdf/1706.04599.pdf) On Calibration of Modern Neural Networks, ICML 2017.   
@@ -364,8 +364,9 @@ in Continual Learning, NeurIPS 2020.
 [[Pang et al. 21]](https://openreview.net/pdf?id=Xb8xvrtB8Ce) Bag of Tricks for Adversarial Training, ICLR 2021.  
 [[Madaan et al. 21]](http://proceedings.mlr.press/v139/madaan21a/madaan21a.pdf) Learning to Generate Noise for Multi-Attack Robustness, ICML 2021.  
 ***
-[[Mladenovic et al. 22]](https://openreview.net/pdf?id=bYGSzbCM_i) Online Adversarial Attacks, ICLR 2022.  
-[[Zhang et al. 22]](https://openreview.net/pdf?id=W9G_ImpHlQd) How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective, ICLR 2022. [[Carlini and Terzis 22]](https://openreview.net/pdf?id=iC4UHbQ01Mp) Poisoning and Backdooring Contrastive Learning, ICLR 2022.  
+[[Mladenovic et al. 22]](https://openreview.net/pdf?id=bYGSzbCM_i) Online Adversarial Attacks, ICLR 2022.   
+[[Zhang et al. 22]](https://openreview.net/pdf?id=W9G_ImpHlQd) How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective, ICLR 2022.  
+[[Carlini and Terzis 22]](https://openreview.net/pdf?id=iC4UHbQ01Mp) Poisoning and Backdooring Contrastive Learning, ICLR 2022.   
 [[Croce et al. 22]](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) Evaluating the Adversarial Robustness of Adaptive Test-time Defenses, ICML 2022.  
 [[Zhou et al. 22]](https://proceedings.mlr.press/v162/zhou22m/zhou22m.pdf) Understanding the Robustness in Vision Transformers, ICML 2022.  
 
