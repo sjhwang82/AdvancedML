@@ -447,7 +447,6 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Raffel et al. 20]](https://jmlr.org/papers/volume21/20-074/20-074.pdf) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, JMLR 2020.  
 [[Gururangan et al. 20]](https://aclanthology.org/2020.acl-main.740.pdf) Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks, ACL 2020.  
 [[Brown et al. 20]](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) Language Models are Few-shot Learners, NeurIPS 2020.  
-
 [[Rae et al. 21]](https://arxiv.org/abs/2112.11446) Scaling Language Models: Methods, Analysis & Insights from Training Gopher, arXiv preprint, 2021.  
 
 
