@@ -220,6 +220,7 @@ Error Reduction, NeurIPS 2019.
 [[Rengarajan et al. 22]](https://openreview.net/pdf?id=YJ1WzgMVsMt) Reinforcement Learning with Sparse Rewards Using Guidance from Offline Demonstration, ICLR 2022.  
 [[Patil et al. 22]](https://proceedings.mlr.press/v162/patil22a/patil22a.pdf) Align-RUDDER: Learning from Few Demonstrations by Reward Redistribution, ICML 2022.  
 [[Goyal et al. 22]](https://proceedings.mlr.press/v162/goyal22a/goyal22a.pdf) Retrieval Augmented Reinforcement Learning, ICML 2022.  
+[[Reed et al. 22]](https://arxiv.org/pdf/2205.06175.pdf) A Generalist Agent, arXiv preprint, 2022.  
 
 ### Memory and Computation-Efficient Deep Learning
 [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
