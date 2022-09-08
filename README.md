@@ -269,11 +269,10 @@ Applications, CVPR 2018.
 [[Lee et al. 21]](https://openreview.net/forum?id=wS0UFjsNYjn) Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning, ICLR 2021.  
 [[Shin et al. 21]](http://proceedings.mlr.press/v139/shin21a/shin21a.pdf) Large-Scale Meta-Learning with Continual Trajectory Shifting, ICML 2021.  
 [[Acar et al. 21]](http://proceedings.mlr.press/v139/acar21b/acar21b.pdf) Memory Efficient Online Meta Learning, ICML 2021.  
-[[Bai et al. 21]](http://proceedings.mlr.press/v139/bai21a/bai21a.pdf) How Important is the Train-Validation Split in Meta-Learning?, ICML 2021.  
 ***
 [[Lee et al. 22]](https://openreview.net/forum?id=01AMRlen9wJ) Online Hyperparameter Meta-Learning with Hypergradient Distillation, ICLR 2022.  
 [[Flennerhag et al. 22]](https://openreview.net/forum?id=b-ny3x071E5) Boostrapped Meta-Learning, ICLR 2022.  
-[[Yao et al. 22]](https://openreview.net/forum?id=ajXWF7bVR8d) Meta-Learning with Fewer TAsks through Task Interpolation, ICLR 2022.  
+[[Yao et al. 22]](https://openreview.net/forum?id=ajXWF7bVR8d) Meta-Learning with Fewer Tasks through Task Interpolation, ICLR 2022.  
 [[Guan and Lu 22]](https://openreview.net/pdf?id=A3HHaEdqAJL) Task Relatedness-Based Generalization Bounds for Meta Learning, ICLR 2022.  
 
 ### Continual Learning
@@ -297,7 +296,6 @@ Learning and Streaming, NeurIPS 2020.
 in Continual Learning, NeurIPS 2020.  
 [[Saha et al. 21]](https://openreview.net/pdf?id=3AOj0RCNC2) Gradient Projection Memory for Continual Learning, ICLR 2021.  
 [[Veinat et al. 21]](https://openreview.net/pdf?id=EKV158tSfwv) Efficient Continual Learning with Modular Networks and Task-Driven Priors, ICLR 2021.  
-[[Kumar et al. 21]](http://proceedings.mlr.press/v139/kumar21a/kumar21a.pdf) Bayesian Structural Adaptation for Continual Learning, ICML 2021.  
 ***
 [[Madaan et al. 22]](https://openreview.net/forum?id=9Hrka5PA7LW) Representational Continuity for Unsupervised Continual Learning, ICLR 2022.    
 [[Yoon et al. 22]](https://openreview.net/forum?id=f9D-5WNG4Nv) Online Coreset Selection for Rehearsal-based Continual Learning, ICLR 2022.  
@@ -445,14 +443,30 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 ***
 
 ### Large Language Models
+[[Shoeybi et al. 19]](https://arxiv.org/abs/1909.08053) Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism, arXiv preprint, 2019.  
+[[Raffel et al. 20]](https://jmlr.org/papers/volume21/20-074/20-074.pdf) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, JMLR 2020.  
+[[Gururangan et al. 20]](https://aclanthology.org/2020.acl-main.740.pdf) Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks, ACL 2020.  
+[[Brown et al. 20]](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) Language Models are Few-shot Learners, NeurIPS 2020.  
+
+[[Rae et al. 21]](https://arxiv.org/abs/2112.11446) Scaling Language Models: Methods, Analysis & Insights from Training Gopher, arXiv preprint, 2021.  
+
+
 ***
 [[Wei et al. 22]](https://openreview.net/pdf?id=gEZrGCozdqR) Finetuned Langauge Models Are Zero-Shot Learners, ICLR 2022.  
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.  
+[[Alayrac et al. 22]](https://arxiv.org/abs/2204.14198) Flamingo: a Visual Language Model for Few-Shot Learning, arXiv preprint, 2022.  
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
 
+
 ### Multimodal Generative Models
-***
+[[Li et al. 19]](https://proceedings.neurips.cc/paper/2019/file/1d72310edc006dadf2190caad5802983-Paper.pdf) Controllable Text-to-Image Generation, NeurIPS 2019.  
+[[Ramesh et al. 21]](http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf) Zero-Shot Text-to-Image Generation, ICML 2021.   
+[[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
+[[Ding et al. 21]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) CogView: Mastering Text-to-Image Generation via Transformers, NeurIPS 2021.  
+[[Zou et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf) Towards Language-Free Training for Text-to-Image Generation, CVPR 2022.  
 [[Rombach et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022.  
+***
+
 [[Nichol et al. 22]](https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf) GLIDE: Towards Photorealistic Image Generation and Editing with
 Text-Guided Diffusion Models, ICML 2022.  
 [[Saharia et al. 22]](https://arxiv.org/abs/2205.11487) Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, arXiv preprint, 2022.  
