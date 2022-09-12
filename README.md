@@ -121,6 +121,7 @@ Perspective of Generalization, NeurIPS 2020.
 ***
 [[Fortuin et al. 22]](https://openreview.net/forum?id=xkjqJYqRJy) Bayesian Neural Network Priors Revisited, ICLR 2022.  
 [[Muller et al. 22]](https://openreview.net/pdf?id=KSugKcbNf9) Transformers Can Do Bayesian Inference, ICLR 2022.  
+[[Nguyen and Grover 22]](https://proceedings.mlr.press/v162/nguyen22b/nguyen22b.pdf) Transformer Neural Processes, ICML 2022.  
 [[Nazaret and Blei 22]](https://proceedings.mlr.press/v162/nazaret22a/nazaret22a.pdf) Variational Inference for Infinitely Deep Neural Networks, ICML 2022.  
 [[Lotfi et al. 22]](https://proceedings.mlr.press/v162/lotfi22a/lotfi22a.pdf) Bayesian Model Selection, the Marginal Likelihood, and Generalization, ICML 2022.  
 [[Alexos et al. 22]](https://proceedings.mlr.press/v162/alexos22a/alexos22a.pdf) Structured Stochastic Gradient MCMC, ICML 2022.  
