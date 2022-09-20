@@ -27,7 +27,7 @@ Office hours: By appointment only.
 |9/15| Self-Supervised Learning (Presentation) | 
 |9/20| Bayesian Deep Learning - Bayesian ML Basics, Bayesian Neural Networks (Lecture) |
 |9/22| Bayesian Deep Learning - Bayesian Approximations, Uncertainties in Prediction (Lecture) |
-|9/27| MCMC Sampling for Bayesian Inference, Neural Processes (Lecture)  | 
+|9/27| Bayesian Deep Learning - MCMC Sampling for Bayesian Inference, Neural Processes (Lecture)  | 
 |9/29| Bayesian Deep Learning (Presentation) |
 |10/4| Deep Generative Models - Advanced GANs (Lecture) |
 |10/6| Deep Generative Models - Advanced GANs (Presentation) **Initial Proposal Due**|
