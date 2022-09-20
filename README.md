@@ -25,17 +25,18 @@ Office hours: By appointment only.
 |9/8| Vision Transformers / Self-Supervised Learning (Lecture) |
 |9/13| Self-Supervised Learning (Lecture) |
 |9/15| Self-Supervised Learning (Presentation) | 
-|9/20| Bayesian Deep Learning - Bayesian Neural Networks, Bayesian Approximations (Lecture) |
-|9/22| Bayesian Deep Learning - MCMC Sampling for Bayesian Inference, Neural Processes (Lecture)  | 
-|9/27| Bayesian Deep Learning (Presentation) |
-|9/29| Deep Generative Models - Advanced GANs (Lecture) |
-|10/4| Deep Generative Models - Advanced GANs (Presentation) **Initial Proposal Due**|
-|10/6| Deep Generative Models - Diffusion Models (Lecture) | 
-|10/11| Deep Generative Models - Diffusion Models (Presentation) 
-|10/13| Large Language Models (Lecture) | 
-|10/18| Multimodal Generative Models (Lecture) |
+|9/20| Bayesian Deep Learning - Bayesian ML Basics, Bayesian Neural Networks (Lecture) |
+|9/22| Bayesian Deep Learning - Bayesian Approximations, Uncertainties in Prediction (Lecture) |
+|9/27| MCMC Sampling for Bayesian Inference, Neural Processes (Lecture)  | 
+|9/29| Bayesian Deep Learning (Presentation) |
+|10/4| Deep Generative Models - Advanced GANs (Lecture) |
+|10/6| Deep Generative Models - Advanced GANs (Presentation) **Initial Proposal Due**|
+|10/11| Deep Generative Models - Diffusion Models (Lecture) | 
+|10/13| Deep Generative Models - Diffusion Models (Presentation) 
+|10/18| Large Language Models (Lecture) | 
 |10/20| **Mid-term Presentation**
-|10/25| Large Language Models and Multimodal Generative Models (Presentation) | 
+|10/25| Multimodal Generative Models (Lecture) |
+|10/27| Large Language Models and Multimodal Generative Models (Presentation) | 
 |11/1| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
 |11/3| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |11/8| Deep Reinforcement Learning (Presentation) |   
