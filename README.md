@@ -36,20 +36,20 @@ Office hours: By appointment only.
 |10/18| Large Language Models (Lecture) | 
 |10/20| **Mid-term Presentation**
 |10/25| Multimodal Generative Models (Lecture) |
-|10/27| Large Language Models and Multimodal Generative Models (Presentation) | 
-|11/1| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|11/3| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
-|11/8| Deep Reinforcement Learning (Presentation) |   
-|11/10| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
-|11/15| Meta Learning (Presentation) |
-|11/17| Continual Learning (Lecture) | 
-|11/22| Continual Learning (Presentation) |
-|11/24| Robust Deep Learning (Lecture) | 
-|11/29| Robust Deep Learning (Presentation) |
-|12/1| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
-|12/3| Deep Graph Learning - Graph Generation (Lecture) |
-|12/8| Deep Graph Learning (Presentation) |   
-|12/13| **Final Presentation**
+|11/1| Large Language Models and Multimodal Generative Models (Presentation) | 
+|11/3| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
+|11/8| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/10| Deep Reinforcement Learning (Presentation) |   
+|11/15| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/17| Meta Learning (Presentation) |
+|11/22| Continual Learning (Lecture) | 
+|11/24| Continual Learning (Presentation) |
+|11/29| Robust Deep Learning (Lecture) | 
+|12/1| Robust Deep Learning (Presentation) |
+|12/3| Deep Graph Learning - Message Passing and Pooling (Lecture) | 
+|12/8| Deep Graph Learning - Graph Generation (Lecture) |
+|12/13| Deep Graph Learning (Presentation) |   
+|12/15| **Final Presentation**
 
 ## Reading List
 
