@@ -36,7 +36,7 @@ Office hours: By appointment only.
 |10/18| Deep Generative Models - Diffusion Models (Presentation) |  
 |10/20| **Mid-term Presentation**
 |10/25| Large Language Models (Lecture) |
-|10/27| Large Language Multimodal Generative Models (Lecture) |
+|10/27| Multimodal Generative Models (Lecture) |
 |11/1| Large Language Models and Multimodal Generative Models (Presentation) | 
 |11/3| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
 |11/8| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
