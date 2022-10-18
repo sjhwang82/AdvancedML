@@ -452,14 +452,13 @@ Guarantees: A Model-Agnostic Meta-Learning Approach, NeurIPS 2020.
 [[Gururangan et al. 20]](https://aclanthology.org/2020.acl-main.740.pdf) Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks, ACL 2020.  
 [[Brown et al. 20]](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) Language Models are Few-shot Learners, NeurIPS 2020.  
 [[Rae et al. 21]](https://arxiv.org/abs/2112.11446) Scaling Language Models: Methods, Analysis & Insights from Training Gopher, arXiv preprint, 2021.  
-
-
 ***
+[[Thoppilan et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) LaMDA: Language Models for Dialog Applications, arXiv preprint, 2022.   
 [[Wei et al. 22]](https://openreview.net/pdf?id=gEZrGCozdqR) Finetuned Langauge Models Are Zero-Shot Learners, ICLR 2022.  
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.  
 [[Alayrac et al. 22]](https://arxiv.org/abs/2204.14198) Flamingo: a Visual Language Model for Few-Shot Learning, arXiv preprint, 2022.  
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
-
+[[Wei et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS 2022.  
 
 ### Multimodal Generative Models
 [[Li et al. 19]](https://proceedings.neurips.cc/paper/2019/file/1d72310edc006dadf2190caad5802983-Paper.pdf) Controllable Text-to-Image Generation, NeurIPS 2019.  
