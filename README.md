@@ -41,7 +41,7 @@ Office hours: By appointment only.
 |11/3| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
 |11/8| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
 |11/10| Deep Reinforcement Learning (Presentation) |   
-|11/15| Artificial General Intelligence, Meta Learning (Lecture) (Lecture) |
+|11/15| Meta Learning (Lecture) |
 |11/17| Meta Learning (Presentation) |
 |11/22| Continual Learning (Lecture) | 
 |11/24| Continual Learning (Presentation) |
