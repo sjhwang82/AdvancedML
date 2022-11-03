@@ -39,7 +39,7 @@ Office hours: By appointment only.
 |10/27| Multimodal Generative Models (Lecture) |
 |11/1| Large Language Models and Multimodal Generative Models (Presentation) | 
 |11/3| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|11/8| Deep Reinforcement Learning - Model-based RL, Offline RL (Lecture) |
+|11/8| Deep Reinforcement Learning - Policy-based RL, Model-based RL, Offline RL (Lecture) |
 |11/10| Deep Reinforcement Learning (Presentation) |   
 |11/15| Meta Learning (Lecture) |
 |11/17| Meta Learning (Presentation) |
