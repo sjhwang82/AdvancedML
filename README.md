@@ -47,9 +47,8 @@ Office hours: By appointment only.
 |11/24| Continual Learning (Lecture) | 
 |11/29| Continual Learning (Presentation) |
 |12/1| Robust Deep Learning (Lecture) | 
-|12/3| Robust Deep Learning (Presentation) |
-|12/6| Deep Graph Learning - Message Passing and Pooling (Lecture) |
-|12/8| Deep Graph Learning - Graph Generation (Lecture) | 
+|12/6| Robust Deep Learning (Presentation) |
+|12/8| Deep Graph Learning (Lecture) |
 |12/13| Deep Graph Learning (Presentation) |   
 |12/15| **Final Presentation**
 
